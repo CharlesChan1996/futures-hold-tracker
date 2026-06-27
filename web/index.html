@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>期货实盘大赛 · 品种持仓多空看板</title>
+<meta name="description" content="期货日报实盘大赛品种持仓多空数据看板 — 对比不同比赛组别的持仓结构" />
+<link rel="stylesheet" href="/web/style.css" />
+<!-- Chart.js via CDN -->
+<script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.1/dist/chart.umd.min.js"></script>
+</head>
+<body>
+<header class="topbar">
+  <div class="topbar-inner">
+    <div class="brand">
+      <span class="brand-logo">📊</span>
+      <div>
+        <h1>品种持仓多空看板</h1>
+        <p class="sub">期货日报实盘大赛 · 对比不同比赛组别的持仓结构</p>
+      </div>
+    </div>
+    <div class="topbar-right">
+      <div class="meta" id="metaBox">
+        <span id="metaLoading" class="muted">加载中…</span>
+      </div>
+      <div class="update-area">
+        <button id="btnUpdate" class="btn-update" title="从数据源抓取最新数据并刷新看板">
+          <span class="btn-update-icon">🔄</span>
+          <span class="btn-update-label">获取最新数据</span>
+        </button>
+        <span id="updateStatus" class="update-status"></span>
+      </div>
+    </div>
+  </div>
+  <nav class="tabs">
+    <button class="tab active" data-view="compare">单品种 × 多组别对比</button>
+    <button class="tab" data-view="trend">时间趋势曲线</button>
+    <button class="tab" data-view="divergence">组别分歧排行</button>
+  </nav>
+</header>
+
+<main class="container">
+
+  <!-- ===== 视图 1：单品种 × 多组别对比 ===== -->
+  <section id="view-compare" class="view active">
+    <div class="controls">
+      <label>品种
+        <select id="cmpBreed"></select>
+      </label>
+      <label>日期
+        <select id="cmpDate"></select>
+      </label>
+      <span id="cmpHint" class="muted"></span>
+    </div>
+
+    <div class="cards" id="cmpCards"></div>
+
+    <div class="grid-2">
+      <div class="panel">
+        <h3>持仓人数（多 vs 空）</h3>
+        <canvas id="cmpChartCount"></canvas>
+      </div>
+      <div class="panel">
+        <h3>持仓手数（多 vs 空）</h3>
+        <canvas id="cmpChartHands"></canvas>
+      </div>
+    </div>
+
+    <div class="panel">
+      <h3>详细数据</h3>
+      <div class="table-wrap">
+        <table id="cmpTable">
+          <thead>
+            <tr>
+              <th>组别</th>
+              <th>做空人数</th>
+              <th>做多人数</th>
+              <th>做空手数</th>
+              <th>做多手数</th>
+              <th>做多人数/做空人数</th>
+              <th>做多手数/做空手数</th>
+            </tr>
+          </thead>
+          <tbody></tbody>
+        </table>
+      </div>
+    </div>
+  </section>
+
+  <!-- ===== 视图 2：时间趋势曲线 ===== -->
+  <section id="view-trend" class="view">
+    <div class="controls">
+      <label>品种
+        <select id="trBreed"></select>
+      </label>
+      <label>组别
+        <select id="trGroup"></select>
+      </label>
+      <label>指标
+        <select id="trMetric">
+          <option value="countRatio">做多人数/做空人数 比</option>
+          <option value="handsRatio">做多手数/做空手数 比</option>
+          <option value="longCount">做多人数</option>
+          <option value="shortCount">做空人数</option>
+          <option value="longHands">做多手数</option>
+          <option value="shortHands">做空手数</option>
+        </select>
+      </label>
+      <label class="checkbox">
+        <input type="checkbox" id="trOverlay" /> 叠加全部组别
+      </label>
+    </div>
+    <div class="panel">
+      <h3 id="trTitle">趋势曲线</h3>
+      <canvas id="trChart"></canvas>
+    </div>
+  </section>
+
+  <!-- ===== 视图 3：组别分歧排行 ===== -->
+  <section id="view-divergence" class="view">
+    <div class="controls">
+      <label>日期
+        <select id="dvDate"></select>
+      </label>
+      <label>指标
+        <select id="dvMetric">
+          <option value="countRatio">按「做多人数/做空人数」的组间分歧</option>
+          <option value="handsRatio">按「做多手数/做空手数」的组间分歧</option>
+        </select>
+      </label>
+      <span class="muted">分歧度 = 各组别该指标的「最大值−最小值」。值越大，说明组别间观点差异越显著。</span>
+    </div>
+    <div class="panel">
+      <h3>分歧最大的品种 Top 30</h3>
+      <div class="table-wrap">
+        <table id="dvTable">
+          <thead>
+            <tr>
+              <th>#</th>
+              <th>品种</th>
+              <th>轻量组</th>
+              <th>重量组</th>
+              <th>基金组</th>
+              <th>量化组</th>
+              <th>分歧度</th>
+              <th>方向</th>
+            </tr>
+          </thead>
+          <tbody></tbody>
+        </table>
+      </div>
+    </div>
+  </section>
+
+</main>
+
+<footer class="footer">
+  <span>数据来源：<a href="https://spdspc.qhrb.com.cn/" target="_blank" rel="noopener">期货日报实盘大赛 spdspc.qhrb.com.cn</a></span>
+  <span>本看板仅做数据汇总展示，不构成投资建议。</span>
+</footer>
+
+<script src="/web/app.js"></script>
+</body>
+</html>

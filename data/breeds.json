@@ -1,0 +1,622 @@
+{
+  "generatedAt": "2026-06-27T05:56:29.973Z",
+  "count": 88,
+  "breeds": [
+    {
+      "code": "A",
+      "name": "黄大豆1号",
+      "type": 3,
+      "exchange": 3,
+      "coefficient": 10
+    },
+    {
+      "code": "AD",
+      "name": "铸造铝合金",
+      "type": 6,
+      "exchange": 2,
+      "coefficient": 10
+    },
+    {
+      "code": "AG",
+      "name": "白银",
+      "type": 5,
+      "exchange": 2,
+      "coefficient": 15
+    },
+    {
+      "code": "AL",
+      "name": "铝",
+      "type": 6,
+      "exchange": 2,
+      "coefficient": 5
+    },
+    {
+      "code": "AO",
+      "name": "氧化铝",
+      "type": 6,
+      "exchange": 2,
+      "coefficient": 20
+    },
+    {
+      "code": "AP",
+      "name": "苹果",
+      "type": 3,
+      "exchange": 1,
+      "coefficient": 10
+    },
+    {
+      "code": "AU",
+      "name": "黄金",
+      "type": 5,
+      "exchange": 2,
+      "coefficient": 1000
+    },
+    {
+      "code": "B",
+      "name": "黄大豆2号",
+      "type": 3,
+      "exchange": 3,
+      "coefficient": 10
+    },
+    {
+      "code": "BB",
+      "name": "胶合板",
+      "type": 2,
+      "exchange": 3,
+      "coefficient": 500
+    },
+    {
+      "code": "BC",
+      "name": "国际铜",
+      "type": 6,
+      "exchange": 2,
+      "coefficient": 5
+    },
+    {
+      "code": "BR",
+      "name": "丁二烯橡胶",
+      "type": 4,
+      "exchange": 2,
+      "coefficient": 5
+    },
+    {
+      "code": "BU",
+      "name": "沥青",
+      "type": 4,
+      "exchange": 2,
+      "coefficient": 10
+    },
+    {
+      "code": "BZ",
+      "name": "纯苯",
+      "type": 4,
+      "exchange": 3,
+      "coefficient": 30
+    },
+    {
+      "code": "C",
+      "name": "玉米",
+      "type": 3,
+      "exchange": 3,
+      "coefficient": 10
+    },
+    {
+      "code": "CF",
+      "name": "棉花",
+      "type": 3,
+      "exchange": 1,
+      "coefficient": 5
+    },
+    {
+      "code": "CJ",
+      "name": "红枣",
+      "type": 3,
+      "exchange": 1,
+      "coefficient": 5
+    },
+    {
+      "code": "CS",
+      "name": "玉米淀粉",
+      "type": 3,
+      "exchange": 3,
+      "coefficient": 10
+    },
+    {
+      "code": "CU",
+      "name": "铜",
+      "type": 6,
+      "exchange": 2,
+      "coefficient": 5
+    },
+    {
+      "code": "CY",
+      "name": "棉纱",
+      "type": 3,
+      "exchange": 1,
+      "coefficient": 5
+    },
+    {
+      "code": "EB",
+      "name": "苯乙烯",
+      "type": 4,
+      "exchange": 3,
+      "coefficient": 5
+    },
+    {
+      "code": "EC",
+      "name": "集运指数（欧线）",
+      "type": 2,
+      "exchange": 2,
+      "coefficient": 50
+    },
+    {
+      "code": "EG",
+      "name": "乙二醇",
+      "type": 4,
+      "exchange": 3,
+      "coefficient": 10
+    },
+    {
+      "code": "FB",
+      "name": "纤维板",
+      "type": 2,
+      "exchange": 3,
+      "coefficient": 10
+    },
+    {
+      "code": "FG",
+      "name": "玻璃",
+      "type": 4,
+      "exchange": 1,
+      "coefficient": 20
+    },
+    {
+      "code": "FU",
+      "name": "燃料油",
+      "type": 4,
+      "exchange": 2,
+      "coefficient": 10
+    },
+    {
+      "code": "HC",
+      "name": "热轧卷板",
+      "type": 7,
+      "exchange": 2,
+      "coefficient": 10
+    },
+    {
+      "code": "I",
+      "name": "铁矿石",
+      "type": 7,
+      "exchange": 3,
+      "coefficient": 100
+    },
+    {
+      "code": "IC",
+      "name": "中证500",
+      "type": 1,
+      "exchange": 4,
+      "coefficient": 200
+    },
+    {
+      "code": "IF",
+      "name": "沪深300",
+      "type": 1,
+      "exchange": 4,
+      "coefficient": 300
+    },
+    {
+      "code": "IH",
+      "name": "上证50",
+      "type": 1,
+      "exchange": 4,
+      "coefficient": 300
+    },
+    {
+      "code": "IM",
+      "name": "中证1000",
+      "type": 1,
+      "exchange": 4,
+      "coefficient": 200
+    },
+    {
+      "code": "J",
+      "name": "焦炭",
+      "type": 7,
+      "exchange": 3,
+      "coefficient": 100
+    },
+    {
+      "code": "JD",
+      "name": "鸡蛋",
+      "type": 3,
+      "exchange": 3,
+      "coefficient": 10
+    },
+    {
+      "code": "JM",
+      "name": "焦煤",
+      "type": 7,
+      "exchange": 3,
+      "coefficient": 60
+    },
+    {
+      "code": "JR",
+      "name": "粳稻",
+      "type": 3,
+      "exchange": 1,
+      "coefficient": 20
+    },
+    {
+      "code": "L",
+      "name": "聚乙烯",
+      "type": 4,
+      "exchange": 3,
+      "coefficient": 5
+    },
+    {
+      "code": "LC",
+      "name": "碳酸锂",
+      "type": 2,
+      "exchange": 5,
+      "coefficient": 1
+    },
+    {
+      "code": "LG",
+      "name": "原木",
+      "type": 3,
+      "exchange": 3,
+      "coefficient": 90
+    },
+    {
+      "code": "LH",
+      "name": "生猪",
+      "type": 3,
+      "exchange": 3,
+      "coefficient": 16
+    },
+    {
+      "code": "LR",
+      "name": "晚稻",
+      "type": 3,
+      "exchange": 1,
+      "coefficient": 20
+    },
+    {
+      "code": "LU",
+      "name": "低硫燃料油",
+      "type": 4,
+      "exchange": 2,
+      "coefficient": 10
+    },
+    {
+      "code": "M",
+      "name": "豆粕",
+      "type": 3,
+      "exchange": 3,
+      "coefficient": 10
+    },
+    {
+      "code": "MA",
+      "name": "甲醇",
+      "type": 4,
+      "exchange": 1,
+      "coefficient": 10
+    },
+    {
+      "code": "NI",
+      "name": "镍",
+      "type": 6,
+      "exchange": 2,
+      "coefficient": 1
+    },
+    {
+      "code": "NR",
+      "name": "20号胶",
+      "type": 4,
+      "exchange": 2,
+      "coefficient": 10
+    },
+    {
+      "code": "OI",
+      "name": "菜籽油",
+      "type": 3,
+      "exchange": 1,
+      "coefficient": 10
+    },
+    {
+      "code": "OP",
+      "name": "胶版印刷纸",
+      "type": 2,
+      "exchange": 2,
+      "coefficient": 40
+    },
+    {
+      "code": "P",
+      "name": "棕榈油",
+      "type": 3,
+      "exchange": 3,
+      "coefficient": 10
+    },
+    {
+      "code": "PB",
+      "name": "铅",
+      "type": 6,
+      "exchange": 2,
+      "coefficient": 5
+    },
+    {
+      "code": "PD",
+      "name": "钯",
+      "type": 5,
+      "exchange": 5,
+      "coefficient": 1000
+    },
+    {
+      "code": "PF",
+      "name": "短纤",
+      "type": 4,
+      "exchange": 1,
+      "coefficient": 5
+    },
+    {
+      "code": "PG",
+      "name": "液化石油气",
+      "type": 4,
+      "exchange": 3,
+      "coefficient": 20
+    },
+    {
+      "code": "PK",
+      "name": "花生",
+      "type": 3,
+      "exchange": 1,
+      "coefficient": 5
+    },
+    {
+      "code": "PL",
+      "name": "丙烯",
+      "type": 4,
+      "exchange": 1,
+      "coefficient": 20
+    },
+    {
+      "code": "PM",
+      "name": "普麦",
+      "type": 3,
+      "exchange": 1,
+      "coefficient": 50
+    },
+    {
+      "code": "PP",
+      "name": "聚丙烯",
+      "type": 4,
+      "exchange": 3,
+      "coefficient": 5
+    },
+    {
+      "code": "PR",
+      "name": "瓶片",
+      "type": 4,
+      "exchange": 1,
+      "coefficient": 15
+    },
+    {
+      "code": "PS",
+      "name": "多晶硅",
+      "type": 2,
+      "exchange": 5,
+      "coefficient": 3
+    },
+    {
+      "code": "PT",
+      "name": "铂",
+      "type": 5,
+      "exchange": 5,
+      "coefficient": 1000
+    },
+    {
+      "code": "PX",
+      "name": "对二甲苯",
+      "type": 4,
+      "exchange": 1,
+      "coefficient": 5
+    },
+    {
+      "code": "RB",
+      "name": "螺纹钢",
+      "type": 7,
+      "exchange": 2,
+      "coefficient": 10
+    },
+    {
+      "code": "RI",
+      "name": "早籼稻",
+      "type": 3,
+      "exchange": 1,
+      "coefficient": 20
+    },
+    {
+      "code": "RM",
+      "name": "菜粕",
+      "type": 3,
+      "exchange": 1,
+      "coefficient": 10
+    },
+    {
+      "code": "RR",
+      "name": "粳米",
+      "type": 3,
+      "exchange": 3,
+      "coefficient": 10
+    },
+    {
+      "code": "RS",
+      "name": "菜籽",
+      "type": 3,
+      "exchange": 1,
+      "coefficient": 10
+    },
+    {
+      "code": "RU",
+      "name": "橡胶",
+      "type": 4,
+      "exchange": 2,
+      "coefficient": 10
+    },
+    {
+      "code": "SA",
+      "name": "纯碱",
+      "type": 4,
+      "exchange": 1,
+      "coefficient": 20
+    },
+    {
+      "code": "SC",
+      "name": "原油",
+      "type": 4,
+      "exchange": 2,
+      "coefficient": 1000
+    },
+    {
+      "code": "SF",
+      "name": "硅铁",
+      "type": 7,
+      "exchange": 1,
+      "coefficient": 5
+    },
+    {
+      "code": "SH",
+      "name": "烧碱",
+      "type": 4,
+      "exchange": 1,
+      "coefficient": 30
+    },
+    {
+      "code": "SI",
+      "name": "工业硅",
+      "type": 2,
+      "exchange": 5,
+      "coefficient": 5
+    },
+    {
+      "code": "SM",
+      "name": "锰硅",
+      "type": 7,
+      "exchange": 1,
+      "coefficient": 5
+    },
+    {
+      "code": "SN",
+      "name": "锡",
+      "type": 6,
+      "exchange": 2,
+      "coefficient": 1
+    },
+    {
+      "code": "SP",
+      "name": "纸浆",
+      "type": 2,
+      "exchange": 2,
+      "coefficient": 10
+    },
+    {
+      "code": "SR",
+      "name": "白糖",
+      "type": 3,
+      "exchange": 1,
+      "coefficient": 10
+    },
+    {
+      "code": "SS",
+      "name": "不锈钢",
+      "type": 7,
+      "exchange": 2,
+      "coefficient": 5
+    },
+    {
+      "code": "T",
+      "name": "十年期国债",
+      "type": 1,
+      "exchange": 4,
+      "coefficient": 10000
+    },
+    {
+      "code": "TA",
+      "name": "PTA",
+      "type": 4,
+      "exchange": 1,
+      "coefficient": 5
+    },
+    {
+      "code": "TF",
+      "name": "5年期国债",
+      "type": 1,
+      "exchange": 4,
+      "coefficient": 10000
+    },
+    {
+      "code": "TL",
+      "name": "30年期国债",
+      "type": 1,
+      "exchange": 4,
+      "coefficient": 10000
+    },
+    {
+      "code": "TS",
+      "name": "两年期国债",
+      "type": 1,
+      "exchange": 4,
+      "coefficient": 20000
+    },
+    {
+      "code": "UR",
+      "name": "尿素",
+      "type": 4,
+      "exchange": 1,
+      "coefficient": 20
+    },
+    {
+      "code": "V",
+      "name": "聚氯乙烯",
+      "type": 4,
+      "exchange": 3,
+      "coefficient": 5
+    },
+    {
+      "code": "WH",
+      "name": "强麦",
+      "type": 3,
+      "exchange": 1,
+      "coefficient": 20
+    },
+    {
+      "code": "WR",
+      "name": "线材",
+      "type": 7,
+      "exchange": 2,
+      "coefficient": 10
+    },
+    {
+      "code": "Y",
+      "name": "豆油",
+      "type": 3,
+      "exchange": 3,
+      "coefficient": 10
+    },
+    {
+      "code": "ZC",
+      "name": "动力煤",
+      "type": 4,
+      "exchange": 1,
+      "coefficient": 100
+    },
+    {
+      "code": "ZN",
+      "name": "锌",
+      "type": 6,
+      "exchange": 2,
+      "coefficient": 5
+    }
+  ]
+}

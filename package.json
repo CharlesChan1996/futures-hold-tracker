@@ -1,0 +1,14 @@
+{
+  "name": "futures-hold-tracker",
+  "version": "1.0.0",
+  "description": "期货实盘大赛品种持仓多空数据看板 - 每日自动抓取并对比不同组别持仓结构",
+  "private": true,
+  "scripts": {
+    "dev": "vercel dev",
+    "backfill": "vercel dev & timeout /t 5 && curl \"http://localhost:3000/api/backfill\"",
+    "test:fetch": "node scripts/test-fetch.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

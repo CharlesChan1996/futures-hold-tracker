@@ -1,0 +1,24 @@
+{
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "functions": {
+    "api/cron/daily.js": { "maxDuration": 60 },
+    "api/backfill.js": { "maxDuration": 60 }
+  },
+  "crons": [
+    {
+      "path": "/api/cron/daily",
+      "schedule": "0 11 * * *"
+    }
+  ],
+  "rewrites": [
+    { "source": "/", "destination": "/web/index.html" }
+  ],
+  "headers": [
+    {
+      "source": "/data/(.*)",
+      "headers": [
+        { "key": "Cache-Control", "value": "public, max-age=300" }
+      ]
+    }
+  ]
+}

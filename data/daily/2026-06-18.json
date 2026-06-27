@@ -1,0 +1,3261 @@
+{
+  "date": "2026-06-18",
+  "breeds": {
+    "A": {
+      "name": "黄大豆1号",
+      "groups": {
+        "light": {
+          "shortCount": 778,
+          "longCount": 409,
+          "shortHands": 4415,
+          "longHands": 4073,
+          "countRatio": 0.5257,
+          "handsRatio": 0.9225
+        },
+        "heavy": {
+          "shortCount": 106,
+          "longCount": 88,
+          "shortHands": 3438,
+          "longHands": 4946,
+          "countRatio": 0.8302,
+          "handsRatio": 1.4386
+        },
+        "fund": {
+          "shortCount": 64,
+          "longCount": 49,
+          "shortHands": 8952,
+          "longHands": 8635,
+          "countRatio": 0.7656,
+          "handsRatio": 0.9646
+        },
+        "quant": {
+          "shortCount": 204,
+          "longCount": 29,
+          "shortHands": 3537,
+          "longHands": 858,
+          "countRatio": 0.1422,
+          "handsRatio": 0.2426
+        }
+      }
+    },
+    "AD": {
+      "name": "铸造铝合金",
+      "groups": {
+        "light": {
+          "shortCount": 13,
+          "longCount": 10,
+          "shortHands": 14,
+          "longHands": 21,
+          "countRatio": 0.7692,
+          "handsRatio": 1.5
+        },
+        "heavy": {
+          "shortCount": 8,
+          "longCount": 8,
+          "shortHands": 18,
+          "longHands": 31,
+          "countRatio": 1,
+          "handsRatio": 1.7222
+        },
+        "fund": {
+          "shortCount": 6,
+          "longCount": 10,
+          "shortHands": 17,
+          "longHands": 1385,
+          "countRatio": 1.6667,
+          "handsRatio": 81.4706
+        },
+        "quant": {
+          "shortCount": 1,
+          "longCount": 20,
+          "shortHands": 1,
+          "longHands": 49,
+          "countRatio": 20,
+          "handsRatio": 49
+        }
+      }
+    },
+    "AG": {
+      "name": "白银",
+      "groups": {
+        "light": {
+          "shortCount": 710,
+          "longCount": 1514,
+          "shortHands": 1353,
+          "longHands": 3149,
+          "countRatio": 2.1324,
+          "handsRatio": 2.3274
+        },
+        "heavy": {
+          "shortCount": 256,
+          "longCount": 468,
+          "shortHands": 1428,
+          "longHands": 3242,
+          "countRatio": 1.8281,
+          "handsRatio": 2.2703
+        },
+        "fund": {
+          "shortCount": 143,
+          "longCount": 162,
+          "shortHands": 4313,
+          "longHands": 6425,
+          "countRatio": 1.1329,
+          "handsRatio": 1.4897
+        },
+        "quant": {
+          "shortCount": 137,
+          "longCount": 86,
+          "shortHands": 650,
+          "longHands": 457,
+          "countRatio": 0.6277,
+          "handsRatio": 0.7031
+        }
+      }
+    },
+    "AL": {
+      "name": "铝",
+      "groups": {
+        "light": {
+          "shortCount": 370,
+          "longCount": 394,
+          "shortHands": 903,
+          "longHands": 1407,
+          "countRatio": 1.0649,
+          "handsRatio": 1.5581
+        },
+        "heavy": {
+          "shortCount": 143,
+          "longCount": 129,
+          "shortHands": 1351,
+          "longHands": 2049,
+          "countRatio": 0.9021,
+          "handsRatio": 1.5167
+        },
+        "fund": {
+          "shortCount": 90,
+          "longCount": 68,
+          "shortHands": 5453,
+          "longHands": 7773,
+          "countRatio": 0.7556,
+          "handsRatio": 1.4255
+        },
+        "quant": {
+          "shortCount": 228,
+          "longCount": 39,
+          "shortHands": 3668,
+          "longHands": 260,
+          "countRatio": 0.1711,
+          "handsRatio": 0.0709
+        }
+      }
+    },
+    "AO": {
+      "name": "氧化铝",
+      "groups": {
+        "light": {
+          "shortCount": 932,
+          "longCount": 1620,
+          "shortHands": 3356,
+          "longHands": 6085,
+          "countRatio": 1.7382,
+          "handsRatio": 1.8132
+        },
+        "heavy": {
+          "shortCount": 69,
+          "longCount": 231,
+          "shortHands": 1167,
+          "longHands": 4226,
+          "countRatio": 3.3478,
+          "handsRatio": 3.6213
+        },
+        "fund": {
+          "shortCount": 61,
+          "longCount": 93,
+          "shortHands": 4342,
+          "longHands": 6121,
+          "countRatio": 1.5246,
+          "handsRatio": 1.4097
+        },
+        "quant": {
+          "shortCount": 82,
+          "longCount": 254,
+          "shortHands": 2105,
+          "longHands": 3767,
+          "countRatio": 3.0976,
+          "handsRatio": 1.7895
+        }
+      }
+    },
+    "AP": {
+      "name": "苹果",
+      "groups": {
+        "light": {
+          "shortCount": 321,
+          "longCount": 643,
+          "shortHands": 1708,
+          "longHands": 2637,
+          "countRatio": 2.0031,
+          "handsRatio": 1.5439
+        },
+        "heavy": {
+          "shortCount": 70,
+          "longCount": 86,
+          "shortHands": 943,
+          "longHands": 907,
+          "countRatio": 1.2286,
+          "handsRatio": 0.9618
+        },
+        "fund": {
+          "shortCount": 53,
+          "longCount": 51,
+          "shortHands": 2803,
+          "longHands": 2025,
+          "countRatio": 0.9623,
+          "handsRatio": 0.7224
+        },
+        "quant": {
+          "shortCount": 50,
+          "longCount": 86,
+          "shortHands": 562,
+          "longHands": 682,
+          "countRatio": 1.72,
+          "handsRatio": 1.2135
+        }
+      }
+    },
+    "AU": {
+      "name": "黄金",
+      "groups": {
+        "light": {
+          "shortCount": 75,
+          "longCount": 274,
+          "shortHands": 100,
+          "longHands": 345,
+          "countRatio": 3.6533,
+          "handsRatio": 3.45
+        },
+        "heavy": {
+          "shortCount": 95,
+          "longCount": 379,
+          "shortHands": 259,
+          "longHands": 1084,
+          "countRatio": 3.9895,
+          "handsRatio": 4.1853
+        },
+        "fund": {
+          "shortCount": 66,
+          "longCount": 221,
+          "shortHands": 684,
+          "longHands": 3223,
+          "countRatio": 3.3485,
+          "handsRatio": 4.712
+        },
+        "quant": {
+          "shortCount": 64,
+          "longCount": 87,
+          "shortHands": 235,
+          "longHands": 321,
+          "countRatio": 1.3594,
+          "handsRatio": 1.366
+        }
+      }
+    },
+    "B": {
+      "name": "黄大豆2号",
+      "groups": {
+        "light": {
+          "shortCount": 142,
+          "longCount": 310,
+          "shortHands": 851,
+          "longHands": 1913,
+          "countRatio": 2.1831,
+          "handsRatio": 2.2479
+        },
+        "heavy": {
+          "shortCount": 44,
+          "longCount": 54,
+          "shortHands": 1021,
+          "longHands": 1778,
+          "countRatio": 1.2273,
+          "handsRatio": 1.7414
+        },
+        "fund": {
+          "shortCount": 48,
+          "longCount": 39,
+          "shortHands": 4060,
+          "longHands": 2542,
+          "countRatio": 0.8125,
+          "handsRatio": 0.6261
+        },
+        "quant": {
+          "shortCount": 75,
+          "longCount": 59,
+          "shortHands": 1664,
+          "longHands": 1630,
+          "countRatio": 0.7867,
+          "handsRatio": 0.9796
+        }
+      }
+    },
+    "BB": {
+      "name": "胶合板",
+      "groups": {
+        "light": {
+          "shortCount": 0,
+          "longCount": 0,
+          "shortHands": 0,
+          "longHands": 0,
+          "countRatio": 0,
+          "handsRatio": 0
+        },
+        "heavy": {
+          "shortCount": 0,
+          "longCount": 0,
+          "shortHands": 0,
+          "longHands": 0,
+          "countRatio": 0,
+          "handsRatio": 0
+        },
+        "fund": {
+          "shortCount": 0,
+          "longCount": 0,
+          "shortHands": 0,
+          "longHands": 0,
+          "countRatio": 0,
+          "handsRatio": 0
+        },
+        "quant": {
+          "shortCount": 0,
+          "longCount": 0,
+          "shortHands": 0,
+          "longHands": 0,
+          "countRatio": 0,
+          "handsRatio": 0
+        }
+      }
+    },
+    "BC": {
+      "name": "国际铜",
+      "groups": {
+        "light": {
+          "shortCount": 2,
+          "longCount": 4,
+          "shortHands": 7,
+          "longHands": 4,
+          "countRatio": 2,
+          "handsRatio": 0.5714
+        },
+        "heavy": {
+          "shortCount": 5,
+          "longCount": 5,
+          "shortHands": 10,
+          "longHands": 13,
+          "countRatio": 1,
+          "handsRatio": 1.3
+        },
+        "fund": {
+          "shortCount": 1,
+          "longCount": 3,
+          "shortHands": 1,
+          "longHands": 8,
+          "countRatio": 3,
+          "handsRatio": 8
+        },
+        "quant": {
+          "shortCount": 18,
+          "longCount": 3,
+          "shortHands": 26,
+          "longHands": 8,
+          "countRatio": 0.1667,
+          "handsRatio": 0.3077
+        }
+      }
+    },
+    "BR": {
+      "name": "丁二烯橡胶",
+      "groups": {
+        "light": {
+          "shortCount": 420,
+          "longCount": 419,
+          "shortHands": 1079,
+          "longHands": 1589,
+          "countRatio": 0.9976,
+          "handsRatio": 1.4727
+        },
+        "heavy": {
+          "shortCount": 114,
+          "longCount": 67,
+          "shortHands": 672,
+          "longHands": 1216,
+          "countRatio": 0.5877,
+          "handsRatio": 1.8095
+        },
+        "fund": {
+          "shortCount": 66,
+          "longCount": 40,
+          "shortHands": 1592,
+          "longHands": 2130,
+          "countRatio": 0.6061,
+          "handsRatio": 1.3379
+        },
+        "quant": {
+          "shortCount": 209,
+          "longCount": 34,
+          "shortHands": 1889,
+          "longHands": 556,
+          "countRatio": 0.1627,
+          "handsRatio": 0.2943
+        }
+      }
+    },
+    "BU": {
+      "name": "沥青",
+      "groups": {
+        "light": {
+          "shortCount": 1015,
+          "longCount": 395,
+          "shortHands": 5112,
+          "longHands": 2148,
+          "countRatio": 0.3892,
+          "handsRatio": 0.4202
+        },
+        "heavy": {
+          "shortCount": 140,
+          "longCount": 63,
+          "shortHands": 3098,
+          "longHands": 1614,
+          "countRatio": 0.45,
+          "handsRatio": 0.521
+        },
+        "fund": {
+          "shortCount": 96,
+          "longCount": 52,
+          "shortHands": 11156,
+          "longHands": 3190,
+          "countRatio": 0.5417,
+          "handsRatio": 0.2859
+        },
+        "quant": {
+          "shortCount": 152,
+          "longCount": 58,
+          "shortHands": 2589,
+          "longHands": 811,
+          "countRatio": 0.3816,
+          "handsRatio": 0.3132
+        }
+      }
+    },
+    "BZ": {
+      "name": "纯苯",
+      "groups": {
+        "light": {
+          "shortCount": 39,
+          "longCount": 14,
+          "shortHands": 65,
+          "longHands": 29,
+          "countRatio": 0.359,
+          "handsRatio": 0.4462
+        },
+        "heavy": {
+          "shortCount": 27,
+          "longCount": 5,
+          "shortHands": 78,
+          "longHands": 82,
+          "countRatio": 0.1852,
+          "handsRatio": 1.0513
+        },
+        "fund": {
+          "shortCount": 21,
+          "longCount": 8,
+          "shortHands": 102,
+          "longHands": 57,
+          "countRatio": 0.381,
+          "handsRatio": 0.5588
+        },
+        "quant": {
+          "shortCount": 41,
+          "longCount": 8,
+          "shortHands": 186,
+          "longHands": 65,
+          "countRatio": 0.1951,
+          "handsRatio": 0.3495
+        }
+      }
+    },
+    "C": {
+      "name": "玉米",
+      "groups": {
+        "light": {
+          "shortCount": 916,
+          "longCount": 1579,
+          "shortHands": 8225,
+          "longHands": 15274,
+          "countRatio": 1.7238,
+          "handsRatio": 1.857
+        },
+        "heavy": {
+          "shortCount": 111,
+          "longCount": 130,
+          "shortHands": 10159,
+          "longHands": 11587,
+          "countRatio": 1.1712,
+          "handsRatio": 1.1406
+        },
+        "fund": {
+          "shortCount": 72,
+          "longCount": 70,
+          "shortHands": 27318,
+          "longHands": 9205,
+          "countRatio": 0.9722,
+          "handsRatio": 0.337
+        },
+        "quant": {
+          "shortCount": 152,
+          "longCount": 76,
+          "shortHands": 5651,
+          "longHands": 2953,
+          "countRatio": 0.5,
+          "handsRatio": 0.5226
+        }
+      }
+    },
+    "CF": {
+      "name": "棉花",
+      "groups": {
+        "light": {
+          "shortCount": 603,
+          "longCount": 1594,
+          "shortHands": 2234,
+          "longHands": 7826,
+          "countRatio": 2.6434,
+          "handsRatio": 3.5031
+        },
+        "heavy": {
+          "shortCount": 88,
+          "longCount": 248,
+          "shortHands": 2872,
+          "longHands": 8210,
+          "countRatio": 2.8182,
+          "handsRatio": 2.8586
+        },
+        "fund": {
+          "shortCount": 54,
+          "longCount": 143,
+          "shortHands": 9130,
+          "longHands": 18206,
+          "countRatio": 2.6481,
+          "handsRatio": 1.9941
+        },
+        "quant": {
+          "shortCount": 91,
+          "longCount": 142,
+          "shortHands": 1116,
+          "longHands": 2327,
+          "countRatio": 1.5604,
+          "handsRatio": 2.0851
+        }
+      }
+    },
+    "CJ": {
+      "name": "红枣",
+      "groups": {
+        "light": {
+          "shortCount": 292,
+          "longCount": 1264,
+          "shortHands": 2104,
+          "longHands": 7397,
+          "countRatio": 4.3288,
+          "handsRatio": 3.5157
+        },
+        "heavy": {
+          "shortCount": 93,
+          "longCount": 141,
+          "shortHands": 1586,
+          "longHands": 3538,
+          "countRatio": 1.5161,
+          "handsRatio": 2.2308
+        },
+        "fund": {
+          "shortCount": 74,
+          "longCount": 52,
+          "shortHands": 4967,
+          "longHands": 3048,
+          "countRatio": 0.7027,
+          "handsRatio": 0.6137
+        },
+        "quant": {
+          "shortCount": 183,
+          "longCount": 30,
+          "shortHands": 2846,
+          "longHands": 846,
+          "countRatio": 0.1639,
+          "handsRatio": 0.2973
+        }
+      }
+    },
+    "CS": {
+      "name": "玉米淀粉",
+      "groups": {
+        "light": {
+          "shortCount": 270,
+          "longCount": 264,
+          "shortHands": 2044,
+          "longHands": 2042,
+          "countRatio": 0.9778,
+          "handsRatio": 0.999
+        },
+        "heavy": {
+          "shortCount": 35,
+          "longCount": 40,
+          "shortHands": 1167,
+          "longHands": 1250,
+          "countRatio": 1.1429,
+          "handsRatio": 1.0711
+        },
+        "fund": {
+          "shortCount": 36,
+          "longCount": 29,
+          "shortHands": 2436,
+          "longHands": 4719,
+          "countRatio": 0.8056,
+          "handsRatio": 1.9372
+        },
+        "quant": {
+          "shortCount": 75,
+          "longCount": 40,
+          "shortHands": 1442,
+          "longHands": 1112,
+          "countRatio": 0.5333,
+          "handsRatio": 0.7712
+        }
+      }
+    },
+    "CU": {
+      "name": "铜",
+      "groups": {
+        "light": {
+          "shortCount": 197,
+          "longCount": 301,
+          "shortHands": 368,
+          "longHands": 570,
+          "countRatio": 1.5279,
+          "handsRatio": 1.5489
+        },
+        "heavy": {
+          "shortCount": 113,
+          "longCount": 251,
+          "shortHands": 850,
+          "longHands": 1433,
+          "countRatio": 2.2212,
+          "handsRatio": 1.6859
+        },
+        "fund": {
+          "shortCount": 40,
+          "longCount": 149,
+          "shortHands": 855,
+          "longHands": 5108,
+          "countRatio": 3.725,
+          "handsRatio": 5.9743
+        },
+        "quant": {
+          "shortCount": 59,
+          "longCount": 105,
+          "shortHands": 244,
+          "longHands": 490,
+          "countRatio": 1.7797,
+          "handsRatio": 2.0082
+        }
+      }
+    },
+    "CY": {
+      "name": "棉纱",
+      "groups": {
+        "light": {
+          "shortCount": 28,
+          "longCount": 17,
+          "shortHands": 102,
+          "longHands": 32,
+          "countRatio": 0.6071,
+          "handsRatio": 0.3137
+        },
+        "heavy": {
+          "shortCount": 5,
+          "longCount": 9,
+          "shortHands": 73,
+          "longHands": 40,
+          "countRatio": 1.8,
+          "handsRatio": 0.5479
+        },
+        "fund": {
+          "shortCount": 2,
+          "longCount": 6,
+          "shortHands": 72,
+          "longHands": 37,
+          "countRatio": 3,
+          "handsRatio": 0.5139
+        },
+        "quant": {
+          "shortCount": 6,
+          "longCount": 15,
+          "shortHands": 27,
+          "longHands": 92,
+          "countRatio": 2.5,
+          "handsRatio": 3.4074
+        }
+      }
+    },
+    "EB": {
+      "name": "苯乙烯",
+      "groups": {
+        "light": {
+          "shortCount": 445,
+          "longCount": 332,
+          "shortHands": 1843,
+          "longHands": 2289,
+          "countRatio": 0.7461,
+          "handsRatio": 1.242
+        },
+        "heavy": {
+          "shortCount": 116,
+          "longCount": 59,
+          "shortHands": 2077,
+          "longHands": 2256,
+          "countRatio": 0.5086,
+          "handsRatio": 1.0862
+        },
+        "fund": {
+          "shortCount": 74,
+          "longCount": 54,
+          "shortHands": 4285,
+          "longHands": 2304,
+          "countRatio": 0.7297,
+          "handsRatio": 0.5377
+        },
+        "quant": {
+          "shortCount": 267,
+          "longCount": 35,
+          "shortHands": 3951,
+          "longHands": 606,
+          "countRatio": 0.1311,
+          "handsRatio": 0.1534
+        }
+      }
+    },
+    "EC": {
+      "name": "集运指数（欧线）",
+      "groups": {
+        "light": {
+          "shortCount": 551,
+          "longCount": 224,
+          "shortHands": 1310,
+          "longHands": 654,
+          "countRatio": 0.4065,
+          "handsRatio": 0.4992
+        },
+        "heavy": {
+          "shortCount": 139,
+          "longCount": 98,
+          "shortHands": 1023,
+          "longHands": 1198,
+          "countRatio": 0.705,
+          "handsRatio": 1.1711
+        },
+        "fund": {
+          "shortCount": 54,
+          "longCount": 85,
+          "shortHands": 1667,
+          "longHands": 3371,
+          "countRatio": 1.5741,
+          "handsRatio": 2.0222
+        },
+        "quant": {
+          "shortCount": 55,
+          "longCount": 111,
+          "shortHands": 337,
+          "longHands": 702,
+          "countRatio": 2.0182,
+          "handsRatio": 2.0831
+        }
+      }
+    },
+    "EG": {
+      "name": "乙二醇",
+      "groups": {
+        "light": {
+          "shortCount": 337,
+          "longCount": 387,
+          "shortHands": 1228,
+          "longHands": 2251,
+          "countRatio": 1.1484,
+          "handsRatio": 1.8331
+        },
+        "heavy": {
+          "shortCount": 107,
+          "longCount": 67,
+          "shortHands": 1037,
+          "longHands": 2301,
+          "countRatio": 0.6262,
+          "handsRatio": 2.2189
+        },
+        "fund": {
+          "shortCount": 86,
+          "longCount": 54,
+          "shortHands": 7337,
+          "longHands": 11744,
+          "countRatio": 0.6279,
+          "handsRatio": 1.6007
+        },
+        "quant": {
+          "shortCount": 153,
+          "longCount": 43,
+          "shortHands": 1832,
+          "longHands": 587,
+          "countRatio": 0.281,
+          "handsRatio": 0.3204
+        }
+      }
+    },
+    "FB": {
+      "name": "纤维板",
+      "groups": {
+        "light": {
+          "shortCount": 21,
+          "longCount": 21,
+          "shortHands": 109,
+          "longHands": 242,
+          "countRatio": 1,
+          "handsRatio": 2.2202
+        },
+        "heavy": {
+          "shortCount": 2,
+          "longCount": 3,
+          "shortHands": 6,
+          "longHands": 6,
+          "countRatio": 1.5,
+          "handsRatio": 1
+        },
+        "fund": {
+          "shortCount": 4,
+          "longCount": 2,
+          "shortHands": 10,
+          "longHands": 8,
+          "countRatio": 0.5,
+          "handsRatio": 0.8
+        },
+        "quant": {
+          "shortCount": 0,
+          "longCount": 0,
+          "shortHands": 0,
+          "longHands": 0,
+          "countRatio": 0,
+          "handsRatio": 0
+        }
+      }
+    },
+    "FG": {
+      "name": "玻璃",
+      "groups": {
+        "light": {
+          "shortCount": 1537,
+          "longCount": 6796,
+          "shortHands": 10948,
+          "longHands": 56345,
+          "countRatio": 4.4216,
+          "handsRatio": 5.1466
+        },
+        "heavy": {
+          "shortCount": 208,
+          "longCount": 264,
+          "shortHands": 11029,
+          "longHands": 24869,
+          "countRatio": 1.2692,
+          "handsRatio": 2.2549
+        },
+        "fund": {
+          "shortCount": 142,
+          "longCount": 110,
+          "shortHands": 24618,
+          "longHands": 19687,
+          "countRatio": 0.7746,
+          "handsRatio": 0.7997
+        },
+        "quant": {
+          "shortCount": 346,
+          "longCount": 67,
+          "shortHands": 22339,
+          "longHands": 2708,
+          "countRatio": 0.1936,
+          "handsRatio": 0.1212
+        }
+      }
+    },
+    "FU": {
+      "name": "燃料油",
+      "groups": {
+        "light": {
+          "shortCount": 753,
+          "longCount": 1494,
+          "shortHands": 2995,
+          "longHands": 7004,
+          "countRatio": 1.9841,
+          "handsRatio": 2.3386
+        },
+        "heavy": {
+          "shortCount": 125,
+          "longCount": 130,
+          "shortHands": 2061,
+          "longHands": 3283,
+          "countRatio": 1.04,
+          "handsRatio": 1.5929
+        },
+        "fund": {
+          "shortCount": 70,
+          "longCount": 62,
+          "shortHands": 4627,
+          "longHands": 5697,
+          "countRatio": 0.8857,
+          "handsRatio": 1.2313
+        },
+        "quant": {
+          "shortCount": 180,
+          "longCount": 61,
+          "shortHands": 2958,
+          "longHands": 1505,
+          "countRatio": 0.3389,
+          "handsRatio": 0.5088
+        }
+      }
+    },
+    "HC": {
+      "name": "热轧卷板",
+      "groups": {
+        "light": {
+          "shortCount": 370,
+          "longCount": 512,
+          "shortHands": 2355,
+          "longHands": 4882,
+          "countRatio": 1.3838,
+          "handsRatio": 2.073
+        },
+        "heavy": {
+          "shortCount": 101,
+          "longCount": 91,
+          "shortHands": 5695,
+          "longHands": 5270,
+          "countRatio": 0.901,
+          "handsRatio": 0.9254
+        },
+        "fund": {
+          "shortCount": 65,
+          "longCount": 53,
+          "shortHands": 16081,
+          "longHands": 8152,
+          "countRatio": 0.8154,
+          "handsRatio": 0.5069
+        },
+        "quant": {
+          "shortCount": 180,
+          "longCount": 59,
+          "shortHands": 6621,
+          "longHands": 2124,
+          "countRatio": 0.3278,
+          "handsRatio": 0.3208
+        }
+      }
+    },
+    "I": {
+      "name": "铁矿石",
+      "groups": {
+        "light": {
+          "shortCount": 466,
+          "longCount": 962,
+          "shortHands": 1949,
+          "longHands": 4441,
+          "countRatio": 2.0644,
+          "handsRatio": 2.2786
+        },
+        "heavy": {
+          "shortCount": 166,
+          "longCount": 217,
+          "shortHands": 3431,
+          "longHands": 6528,
+          "countRatio": 1.3072,
+          "handsRatio": 1.9027
+        },
+        "fund": {
+          "shortCount": 104,
+          "longCount": 114,
+          "shortHands": 10317,
+          "longHands": 12316,
+          "countRatio": 1.0962,
+          "handsRatio": 1.1938
+        },
+        "quant": {
+          "shortCount": 282,
+          "longCount": 81,
+          "shortHands": 4962,
+          "longHands": 5315,
+          "countRatio": 0.2872,
+          "handsRatio": 1.0711
+        }
+      }
+    },
+    "IC": {
+      "name": "中证500",
+      "groups": {
+        "light": {
+          "shortCount": 199,
+          "longCount": 350,
+          "shortHands": 277,
+          "longHands": 466,
+          "countRatio": 1.7588,
+          "handsRatio": 1.6823
+        },
+        "heavy": {
+          "shortCount": 203,
+          "longCount": 495,
+          "shortHands": 641,
+          "longHands": 1481,
+          "countRatio": 2.4384,
+          "handsRatio": 2.3105
+        },
+        "fund": {
+          "shortCount": 107,
+          "longCount": 284,
+          "shortHands": 1729,
+          "longHands": 3737,
+          "countRatio": 2.6542,
+          "handsRatio": 2.1614
+        },
+        "quant": {
+          "shortCount": 62,
+          "longCount": 174,
+          "shortHands": 358,
+          "longHands": 891,
+          "countRatio": 2.8065,
+          "handsRatio": 2.4888
+        }
+      }
+    },
+    "IF": {
+      "name": "沪深300",
+      "groups": {
+        "light": {
+          "shortCount": 139,
+          "longCount": 308,
+          "shortHands": 207,
+          "longHands": 420,
+          "countRatio": 2.2158,
+          "handsRatio": 2.029
+        },
+        "heavy": {
+          "shortCount": 86,
+          "longCount": 335,
+          "shortHands": 230,
+          "longHands": 1067,
+          "countRatio": 3.8953,
+          "handsRatio": 4.6391
+        },
+        "fund": {
+          "shortCount": 79,
+          "longCount": 263,
+          "shortHands": 1131,
+          "longHands": 2932,
+          "countRatio": 3.3291,
+          "handsRatio": 2.5924
+        },
+        "quant": {
+          "shortCount": 49,
+          "longCount": 169,
+          "shortHands": 177,
+          "longHands": 1052,
+          "countRatio": 3.449,
+          "handsRatio": 5.9435
+        }
+      }
+    },
+    "IH": {
+      "name": "上证50",
+      "groups": {
+        "light": {
+          "shortCount": 100,
+          "longCount": 307,
+          "shortHands": 144,
+          "longHands": 502,
+          "countRatio": 3.07,
+          "handsRatio": 3.4861
+        },
+        "heavy": {
+          "shortCount": 41,
+          "longCount": 194,
+          "shortHands": 134,
+          "longHands": 781,
+          "countRatio": 4.7317,
+          "handsRatio": 5.8284
+        },
+        "fund": {
+          "shortCount": 45,
+          "longCount": 120,
+          "shortHands": 551,
+          "longHands": 2395,
+          "countRatio": 2.6667,
+          "handsRatio": 4.3466
+        },
+        "quant": {
+          "shortCount": 27,
+          "longCount": 76,
+          "shortHands": 188,
+          "longHands": 315,
+          "countRatio": 2.8148,
+          "handsRatio": 1.6755
+        }
+      }
+    },
+    "IM": {
+      "name": "中证1000",
+      "groups": {
+        "light": {
+          "shortCount": 348,
+          "longCount": 568,
+          "shortHands": 524,
+          "longHands": 853,
+          "countRatio": 1.6322,
+          "handsRatio": 1.6279
+        },
+        "heavy": {
+          "shortCount": 319,
+          "longCount": 804,
+          "shortHands": 923,
+          "longHands": 2777,
+          "countRatio": 2.5204,
+          "handsRatio": 3.0087
+        },
+        "fund": {
+          "shortCount": 147,
+          "longCount": 461,
+          "shortHands": 2228,
+          "longHands": 9045,
+          "countRatio": 3.1361,
+          "handsRatio": 4.0597
+        },
+        "quant": {
+          "shortCount": 90,
+          "longCount": 282,
+          "shortHands": 565,
+          "longHands": 2128,
+          "countRatio": 3.1333,
+          "handsRatio": 3.7664
+        }
+      }
+    },
+    "J": {
+      "name": "焦炭",
+      "groups": {
+        "light": {
+          "shortCount": 234,
+          "longCount": 131,
+          "shortHands": 506,
+          "longHands": 393,
+          "countRatio": 0.5598,
+          "handsRatio": 0.7767
+        },
+        "heavy": {
+          "shortCount": 57,
+          "longCount": 84,
+          "shortHands": 339,
+          "longHands": 551,
+          "countRatio": 1.4737,
+          "handsRatio": 1.6254
+        },
+        "fund": {
+          "shortCount": 46,
+          "longCount": 85,
+          "shortHands": 919,
+          "longHands": 1456,
+          "countRatio": 1.8478,
+          "handsRatio": 1.5843
+        },
+        "quant": {
+          "shortCount": 54,
+          "longCount": 85,
+          "shortHands": 282,
+          "longHands": 700,
+          "countRatio": 1.5741,
+          "handsRatio": 2.4823
+        }
+      }
+    },
+    "JD": {
+      "name": "鸡蛋",
+      "groups": {
+        "light": {
+          "shortCount": 4508,
+          "longCount": 1775,
+          "shortHands": 36748,
+          "longHands": 26694,
+          "countRatio": 0.3937,
+          "handsRatio": 0.7264
+        },
+        "heavy": {
+          "shortCount": 348,
+          "longCount": 256,
+          "shortHands": 25945,
+          "longHands": 35851,
+          "countRatio": 0.7356,
+          "handsRatio": 1.3818
+        },
+        "fund": {
+          "shortCount": 141,
+          "longCount": 151,
+          "shortHands": 26413,
+          "longHands": 34089,
+          "countRatio": 1.0709,
+          "handsRatio": 1.2906
+        },
+        "quant": {
+          "shortCount": 145,
+          "longCount": 122,
+          "shortHands": 6525,
+          "longHands": 5932,
+          "countRatio": 0.8414,
+          "handsRatio": 0.9091
+        }
+      }
+    },
+    "JM": {
+      "name": "焦煤",
+      "groups": {
+        "light": {
+          "shortCount": 1738,
+          "longCount": 1998,
+          "shortHands": 5838,
+          "longHands": 8596,
+          "countRatio": 1.1496,
+          "handsRatio": 1.4724
+        },
+        "heavy": {
+          "shortCount": 192,
+          "longCount": 224,
+          "shortHands": 3329,
+          "longHands": 6687,
+          "countRatio": 1.1667,
+          "handsRatio": 2.0087
+        },
+        "fund": {
+          "shortCount": 147,
+          "longCount": 134,
+          "shortHands": 17527,
+          "longHands": 12871,
+          "countRatio": 0.9116,
+          "handsRatio": 0.7344
+        },
+        "quant": {
+          "shortCount": 193,
+          "longCount": 80,
+          "shortHands": 3020,
+          "longHands": 1844,
+          "countRatio": 0.4145,
+          "handsRatio": 0.6106
+        }
+      }
+    },
+    "JR": {
+      "name": "粳稻",
+      "groups": {
+        "light": {
+          "shortCount": 0,
+          "longCount": 0,
+          "shortHands": 0,
+          "longHands": 0,
+          "countRatio": 0,
+          "handsRatio": 0
+        },
+        "heavy": {
+          "shortCount": 0,
+          "longCount": 0,
+          "shortHands": 0,
+          "longHands": 0,
+          "countRatio": 0,
+          "handsRatio": 0
+        },
+        "fund": {
+          "shortCount": 0,
+          "longCount": 0,
+          "shortHands": 0,
+          "longHands": 0,
+          "countRatio": 0,
+          "handsRatio": 0
+        },
+        "quant": {
+          "shortCount": 0,
+          "longCount": 0,
+          "shortHands": 0,
+          "longHands": 0,
+          "countRatio": 0,
+          "handsRatio": 0
+        }
+      }
+    },
+    "L": {
+      "name": "聚乙烯",
+      "groups": {
+        "light": {
+          "shortCount": 390,
+          "longCount": 417,
+          "shortHands": 1349,
+          "longHands": 2772,
+          "countRatio": 1.0692,
+          "handsRatio": 2.0549
+        },
+        "heavy": {
+          "shortCount": 92,
+          "longCount": 62,
+          "shortHands": 1404,
+          "longHands": 1802,
+          "countRatio": 0.6739,
+          "handsRatio": 1.2835
+        },
+        "fund": {
+          "shortCount": 72,
+          "longCount": 63,
+          "shortHands": 3511,
+          "longHands": 6008,
+          "countRatio": 0.875,
+          "handsRatio": 1.7112
+        },
+        "quant": {
+          "shortCount": 161,
+          "longCount": 60,
+          "shortHands": 2316,
+          "longHands": 1625,
+          "countRatio": 0.3727,
+          "handsRatio": 0.7016
+        }
+      }
+    },
+    "LC": {
+      "name": "碳酸锂",
+      "groups": {
+        "light": {
+          "shortCount": 272,
+          "longCount": 497,
+          "shortHands": 1477,
+          "longHands": 3125,
+          "countRatio": 1.8272,
+          "handsRatio": 2.1158
+        },
+        "heavy": {
+          "shortCount": 163,
+          "longCount": 299,
+          "shortHands": 1500,
+          "longHands": 5108,
+          "countRatio": 1.8344,
+          "handsRatio": 3.4053
+        },
+        "fund": {
+          "shortCount": 102,
+          "longCount": 133,
+          "shortHands": 4884,
+          "longHands": 7315,
+          "countRatio": 1.3039,
+          "handsRatio": 1.4977
+        },
+        "quant": {
+          "shortCount": 114,
+          "longCount": 57,
+          "shortHands": 1176,
+          "longHands": 886,
+          "countRatio": 0.5,
+          "handsRatio": 0.7534
+        }
+      }
+    },
+    "LG": {
+      "name": "原木",
+      "groups": {
+        "light": {
+          "shortCount": 51,
+          "longCount": 47,
+          "shortHands": 138,
+          "longHands": 145,
+          "countRatio": 0.9216,
+          "handsRatio": 1.0507
+        },
+        "heavy": {
+          "shortCount": 8,
+          "longCount": 10,
+          "shortHands": 23,
+          "longHands": 63,
+          "countRatio": 1.25,
+          "handsRatio": 2.7391
+        },
+        "fund": {
+          "shortCount": 9,
+          "longCount": 10,
+          "shortHands": 80,
+          "longHands": 165,
+          "countRatio": 1.1111,
+          "handsRatio": 2.0625
+        },
+        "quant": {
+          "shortCount": 9,
+          "longCount": 23,
+          "shortHands": 38,
+          "longHands": 183,
+          "countRatio": 2.5556,
+          "handsRatio": 4.8158
+        }
+      }
+    },
+    "LH": {
+      "name": "生猪",
+      "groups": {
+        "light": {
+          "shortCount": 1029,
+          "longCount": 2850,
+          "shortHands": 3718,
+          "longHands": 10070,
+          "countRatio": 2.7697,
+          "handsRatio": 2.7084
+        },
+        "heavy": {
+          "shortCount": 292,
+          "longCount": 505,
+          "shortHands": 3744,
+          "longHands": 8059,
+          "countRatio": 1.7295,
+          "handsRatio": 2.1525
+        },
+        "fund": {
+          "shortCount": 157,
+          "longCount": 218,
+          "shortHands": 6083,
+          "longHands": 12110,
+          "countRatio": 1.3885,
+          "handsRatio": 1.9908
+        },
+        "quant": {
+          "shortCount": 253,
+          "longCount": 142,
+          "shortHands": 2677,
+          "longHands": 1302,
+          "countRatio": 0.5613,
+          "handsRatio": 0.4864
+        }
+      }
+    },
+    "LR": {
+      "name": "晚稻",
+      "groups": {
+        "light": {
+          "shortCount": 0,
+          "longCount": 0,
+          "shortHands": 0,
+          "longHands": 0,
+          "countRatio": 0,
+          "handsRatio": 0
+        },
+        "heavy": {
+          "shortCount": 0,
+          "longCount": 0,
+          "shortHands": 0,
+          "longHands": 0,
+          "countRatio": 0,
+          "handsRatio": 0
+        },
+        "fund": {
+          "shortCount": 0,
+          "longCount": 0,
+          "shortHands": 0,
+          "longHands": 0,
+          "countRatio": 0,
+          "handsRatio": 0
+        },
+        "quant": {
+          "shortCount": 0,
+          "longCount": 0,
+          "shortHands": 0,
+          "longHands": 0,
+          "countRatio": 0,
+          "handsRatio": 0
+        }
+      }
+    },
+    "LU": {
+      "name": "低硫燃料油",
+      "groups": {
+        "light": {
+          "shortCount": 141,
+          "longCount": 139,
+          "shortHands": 590,
+          "longHands": 616,
+          "countRatio": 0.9858,
+          "handsRatio": 1.0441
+        },
+        "heavy": {
+          "shortCount": 31,
+          "longCount": 39,
+          "shortHands": 191,
+          "longHands": 654,
+          "countRatio": 1.2581,
+          "handsRatio": 3.4241
+        },
+        "fund": {
+          "shortCount": 27,
+          "longCount": 32,
+          "shortHands": 505,
+          "longHands": 516,
+          "countRatio": 1.1852,
+          "handsRatio": 1.0218
+        },
+        "quant": {
+          "shortCount": 59,
+          "longCount": 41,
+          "shortHands": 449,
+          "longHands": 328,
+          "countRatio": 0.6949,
+          "handsRatio": 0.7305
+        }
+      }
+    },
+    "M": {
+      "name": "豆粕",
+      "groups": {
+        "light": {
+          "shortCount": 887,
+          "longCount": 2332,
+          "shortHands": 7230,
+          "longHands": 22235,
+          "countRatio": 2.6291,
+          "handsRatio": 3.0754
+        },
+        "heavy": {
+          "shortCount": 141,
+          "longCount": 330,
+          "shortHands": 7287,
+          "longHands": 30793,
+          "countRatio": 2.3404,
+          "handsRatio": 4.2257
+        },
+        "fund": {
+          "shortCount": 97,
+          "longCount": 158,
+          "shortHands": 34559,
+          "longHands": 63093,
+          "countRatio": 1.6289,
+          "handsRatio": 1.8257
+        },
+        "quant": {
+          "shortCount": 160,
+          "longCount": 113,
+          "shortHands": 6465,
+          "longHands": 9185,
+          "countRatio": 0.7063,
+          "handsRatio": 1.4207
+        }
+      }
+    },
+    "MA": {
+      "name": "甲醇",
+      "groups": {
+        "light": {
+          "shortCount": 1264,
+          "longCount": 1110,
+          "shortHands": 12213,
+          "longHands": 13086,
+          "countRatio": 0.8782,
+          "handsRatio": 1.0715
+        },
+        "heavy": {
+          "shortCount": 181,
+          "longCount": 115,
+          "shortHands": 9267,
+          "longHands": 6239,
+          "countRatio": 0.6354,
+          "handsRatio": 0.6732
+        },
+        "fund": {
+          "shortCount": 120,
+          "longCount": 80,
+          "shortHands": 21748,
+          "longHands": 16844,
+          "countRatio": 0.6667,
+          "handsRatio": 0.7745
+        },
+        "quant": {
+          "shortCount": 174,
+          "longCount": 68,
+          "shortHands": 7722,
+          "longHands": 2820,
+          "countRatio": 0.3908,
+          "handsRatio": 0.3652
+        }
+      }
+    },
+    "NI": {
+      "name": "镍",
+      "groups": {
+        "light": {
+          "shortCount": 167,
+          "longCount": 745,
+          "shortHands": 301,
+          "longHands": 2182,
+          "countRatio": 4.4611,
+          "handsRatio": 7.2492
+        },
+        "heavy": {
+          "shortCount": 76,
+          "longCount": 186,
+          "shortHands": 393,
+          "longHands": 2823,
+          "countRatio": 2.4474,
+          "handsRatio": 7.1832
+        },
+        "fund": {
+          "shortCount": 70,
+          "longCount": 83,
+          "shortHands": 2657,
+          "longHands": 4066,
+          "countRatio": 1.1857,
+          "handsRatio": 1.5303
+        },
+        "quant": {
+          "shortCount": 142,
+          "longCount": 53,
+          "shortHands": 928,
+          "longHands": 535,
+          "countRatio": 0.3732,
+          "handsRatio": 0.5765
+        }
+      }
+    },
+    "NR": {
+      "name": "20号胶",
+      "groups": {
+        "light": {
+          "shortCount": 120,
+          "longCount": 221,
+          "shortHands": 301,
+          "longHands": 617,
+          "countRatio": 1.8417,
+          "handsRatio": 2.0498
+        },
+        "heavy": {
+          "shortCount": 23,
+          "longCount": 71,
+          "shortHands": 139,
+          "longHands": 551,
+          "countRatio": 3.087,
+          "handsRatio": 3.964
+        },
+        "fund": {
+          "shortCount": 34,
+          "longCount": 65,
+          "shortHands": 339,
+          "longHands": 1355,
+          "countRatio": 1.9118,
+          "handsRatio": 3.9971
+        },
+        "quant": {
+          "shortCount": 28,
+          "longCount": 68,
+          "shortHands": 121,
+          "longHands": 573,
+          "countRatio": 2.4286,
+          "handsRatio": 4.7355
+        }
+      }
+    },
+    "OI": {
+      "name": "菜籽油",
+      "groups": {
+        "light": {
+          "shortCount": 237,
+          "longCount": 537,
+          "shortHands": 872,
+          "longHands": 2332,
+          "countRatio": 2.2658,
+          "handsRatio": 2.6743
+        },
+        "heavy": {
+          "shortCount": 60,
+          "longCount": 99,
+          "shortHands": 461,
+          "longHands": 1414,
+          "countRatio": 1.65,
+          "handsRatio": 3.0672
+        },
+        "fund": {
+          "shortCount": 47,
+          "longCount": 51,
+          "shortHands": 3663,
+          "longHands": 5976,
+          "countRatio": 1.0851,
+          "handsRatio": 1.6314
+        },
+        "quant": {
+          "shortCount": 106,
+          "longCount": 66,
+          "shortHands": 1976,
+          "longHands": 1402,
+          "countRatio": 0.6226,
+          "handsRatio": 0.7095
+        }
+      }
+    },
+    "OP": {
+      "name": "胶版印刷纸",
+      "groups": {
+        "light": {
+          "shortCount": 11,
+          "longCount": 24,
+          "shortHands": 18,
+          "longHands": 46,
+          "countRatio": 2.1818,
+          "handsRatio": 2.5556
+        },
+        "heavy": {
+          "shortCount": 13,
+          "longCount": 8,
+          "shortHands": 49,
+          "longHands": 40,
+          "countRatio": 0.6154,
+          "handsRatio": 0.8163
+        },
+        "fund": {
+          "shortCount": 5,
+          "longCount": 2,
+          "shortHands": 262,
+          "longHands": 167,
+          "countRatio": 0.4,
+          "handsRatio": 0.6374
+        },
+        "quant": {
+          "shortCount": 10,
+          "longCount": 4,
+          "shortHands": 71,
+          "longHands": 25,
+          "countRatio": 0.4,
+          "handsRatio": 0.3521
+        }
+      }
+    },
+    "P": {
+      "name": "棕榈油",
+      "groups": {
+        "light": {
+          "shortCount": 821,
+          "longCount": 1369,
+          "shortHands": 3121,
+          "longHands": 6729,
+          "countRatio": 1.6675,
+          "handsRatio": 2.156
+        },
+        "heavy": {
+          "shortCount": 152,
+          "longCount": 243,
+          "shortHands": 2077,
+          "longHands": 7934,
+          "countRatio": 1.5987,
+          "handsRatio": 3.8199
+        },
+        "fund": {
+          "shortCount": 101,
+          "longCount": 131,
+          "shortHands": 8090,
+          "longHands": 15156,
+          "countRatio": 1.297,
+          "handsRatio": 1.8734
+        },
+        "quant": {
+          "shortCount": 234,
+          "longCount": 88,
+          "shortHands": 3475,
+          "longHands": 1820,
+          "countRatio": 0.3761,
+          "handsRatio": 0.5237
+        }
+      }
+    },
+    "PB": {
+      "name": "铅",
+      "groups": {
+        "light": {
+          "shortCount": 71,
+          "longCount": 50,
+          "shortHands": 186,
+          "longHands": 186,
+          "countRatio": 0.7042,
+          "handsRatio": 1
+        },
+        "heavy": {
+          "shortCount": 47,
+          "longCount": 26,
+          "shortHands": 330,
+          "longHands": 443,
+          "countRatio": 0.5532,
+          "handsRatio": 1.3424
+        },
+        "fund": {
+          "shortCount": 35,
+          "longCount": 18,
+          "shortHands": 320,
+          "longHands": 284,
+          "countRatio": 0.5143,
+          "handsRatio": 0.8875
+        },
+        "quant": {
+          "shortCount": 48,
+          "longCount": 30,
+          "shortHands": 514,
+          "longHands": 196,
+          "countRatio": 0.625,
+          "handsRatio": 0.3813
+        }
+      }
+    },
+    "PD": {
+      "name": "钯",
+      "groups": {
+        "light": {
+          "shortCount": 12,
+          "longCount": 43,
+          "shortHands": 12,
+          "longHands": 62,
+          "countRatio": 3.5833,
+          "handsRatio": 5.1667
+        },
+        "heavy": {
+          "shortCount": 9,
+          "longCount": 37,
+          "shortHands": 18,
+          "longHands": 145,
+          "countRatio": 4.1111,
+          "handsRatio": 8.0556
+        },
+        "fund": {
+          "shortCount": 15,
+          "longCount": 12,
+          "shortHands": 63,
+          "longHands": 80,
+          "countRatio": 0.8,
+          "handsRatio": 1.2698
+        },
+        "quant": {
+          "shortCount": 7,
+          "longCount": 7,
+          "shortHands": 58,
+          "longHands": 26,
+          "countRatio": 1,
+          "handsRatio": 0.4483
+        }
+      }
+    },
+    "PF": {
+      "name": "短纤",
+      "groups": {
+        "light": {
+          "shortCount": 116,
+          "longCount": 51,
+          "shortHands": 337,
+          "longHands": 448,
+          "countRatio": 0.4397,
+          "handsRatio": 1.3294
+        },
+        "heavy": {
+          "shortCount": 41,
+          "longCount": 25,
+          "shortHands": 1132,
+          "longHands": 623,
+          "countRatio": 0.6098,
+          "handsRatio": 0.5504
+        },
+        "fund": {
+          "shortCount": 36,
+          "longCount": 32,
+          "shortHands": 444,
+          "longHands": 1522,
+          "countRatio": 0.8889,
+          "handsRatio": 3.4279
+        },
+        "quant": {
+          "shortCount": 82,
+          "longCount": 38,
+          "shortHands": 750,
+          "longHands": 1083,
+          "countRatio": 0.4634,
+          "handsRatio": 1.444
+        }
+      }
+    },
+    "PG": {
+      "name": "液化石油气",
+      "groups": {
+        "light": {
+          "shortCount": 153,
+          "longCount": 196,
+          "shortHands": 440,
+          "longHands": 739,
+          "countRatio": 1.281,
+          "handsRatio": 1.6795
+        },
+        "heavy": {
+          "shortCount": 51,
+          "longCount": 45,
+          "shortHands": 249,
+          "longHands": 926,
+          "countRatio": 0.8824,
+          "handsRatio": 3.7189
+        },
+        "fund": {
+          "shortCount": 48,
+          "longCount": 27,
+          "shortHands": 693,
+          "longHands": 560,
+          "countRatio": 0.5625,
+          "handsRatio": 0.8081
+        },
+        "quant": {
+          "shortCount": 120,
+          "longCount": 39,
+          "shortHands": 907,
+          "longHands": 628,
+          "countRatio": 0.325,
+          "handsRatio": 0.6924
+        }
+      }
+    },
+    "PK": {
+      "name": "花生",
+      "groups": {
+        "light": {
+          "shortCount": 214,
+          "longCount": 351,
+          "shortHands": 2205,
+          "longHands": 2444,
+          "countRatio": 1.6402,
+          "handsRatio": 1.1084
+        },
+        "heavy": {
+          "shortCount": 32,
+          "longCount": 83,
+          "shortHands": 2701,
+          "longHands": 2740,
+          "countRatio": 2.5938,
+          "handsRatio": 1.0144
+        },
+        "fund": {
+          "shortCount": 35,
+          "longCount": 77,
+          "shortHands": 2759,
+          "longHands": 5523,
+          "countRatio": 2.2,
+          "handsRatio": 2.0018
+        },
+        "quant": {
+          "shortCount": 45,
+          "longCount": 97,
+          "shortHands": 1102,
+          "longHands": 1725,
+          "countRatio": 2.1556,
+          "handsRatio": 1.5653
+        }
+      }
+    },
+    "PL": {
+      "name": "丙烯",
+      "groups": {
+        "light": {
+          "shortCount": 81,
+          "longCount": 25,
+          "shortHands": 162,
+          "longHands": 73,
+          "countRatio": 0.3086,
+          "handsRatio": 0.4506
+        },
+        "heavy": {
+          "shortCount": 32,
+          "longCount": 1,
+          "shortHands": 100,
+          "longHands": 2,
+          "countRatio": 0.0313,
+          "handsRatio": 0.02
+        },
+        "fund": {
+          "shortCount": 23,
+          "longCount": 9,
+          "shortHands": 135,
+          "longHands": 59,
+          "countRatio": 0.3913,
+          "handsRatio": 0.437
+        },
+        "quant": {
+          "shortCount": 46,
+          "longCount": 19,
+          "shortHands": 341,
+          "longHands": 115,
+          "countRatio": 0.413,
+          "handsRatio": 0.3372
+        }
+      }
+    },
+    "PM": {
+      "name": "普麦",
+      "groups": {
+        "light": {
+          "shortCount": 0,
+          "longCount": 0,
+          "shortHands": 0,
+          "longHands": 0,
+          "countRatio": 0,
+          "handsRatio": 0
+        },
+        "heavy": {
+          "shortCount": 0,
+          "longCount": 0,
+          "shortHands": 0,
+          "longHands": 0,
+          "countRatio": 0,
+          "handsRatio": 0
+        },
+        "fund": {
+          "shortCount": 0,
+          "longCount": 0,
+          "shortHands": 0,
+          "longHands": 0,
+          "countRatio": 0,
+          "handsRatio": 0
+        },
+        "quant": {
+          "shortCount": 0,
+          "longCount": 0,
+          "shortHands": 0,
+          "longHands": 0,
+          "countRatio": 0,
+          "handsRatio": 0
+        }
+      }
+    },
+    "PP": {
+      "name": "聚丙烯",
+      "groups": {
+        "light": {
+          "shortCount": 654,
+          "longCount": 340,
+          "shortHands": 3855,
+          "longHands": 2644,
+          "countRatio": 0.5199,
+          "handsRatio": 0.6859
+        },
+        "heavy": {
+          "shortCount": 158,
+          "longCount": 87,
+          "shortHands": 4625,
+          "longHands": 2645,
+          "countRatio": 0.5506,
+          "handsRatio": 0.5719
+        },
+        "fund": {
+          "shortCount": 105,
+          "longCount": 74,
+          "shortHands": 10481,
+          "longHands": 5650,
+          "countRatio": 0.7048,
+          "handsRatio": 0.5391
+        },
+        "quant": {
+          "shortCount": 189,
+          "longCount": 68,
+          "shortHands": 3789,
+          "longHands": 1380,
+          "countRatio": 0.3598,
+          "handsRatio": 0.3642
+        }
+      }
+    },
+    "PR": {
+      "name": "瓶片",
+      "groups": {
+        "light": {
+          "shortCount": 106,
+          "longCount": 43,
+          "shortHands": 274,
+          "longHands": 199,
+          "countRatio": 0.4057,
+          "handsRatio": 0.7263
+        },
+        "heavy": {
+          "shortCount": 43,
+          "longCount": 15,
+          "shortHands": 187,
+          "longHands": 127,
+          "countRatio": 0.3488,
+          "handsRatio": 0.6791
+        },
+        "fund": {
+          "shortCount": 34,
+          "longCount": 15,
+          "shortHands": 468,
+          "longHands": 329,
+          "countRatio": 0.4412,
+          "handsRatio": 0.703
+        },
+        "quant": {
+          "shortCount": 71,
+          "longCount": 26,
+          "shortHands": 445,
+          "longHands": 235,
+          "countRatio": 0.3662,
+          "handsRatio": 0.5281
+        }
+      }
+    },
+    "PS": {
+      "name": "多晶硅",
+      "groups": {
+        "light": {
+          "shortCount": 89,
+          "longCount": 379,
+          "shortHands": 769,
+          "longHands": 2694,
+          "countRatio": 4.2584,
+          "handsRatio": 3.5033
+        },
+        "heavy": {
+          "shortCount": 47,
+          "longCount": 172,
+          "shortHands": 1161,
+          "longHands": 3180,
+          "countRatio": 3.6596,
+          "handsRatio": 2.739
+        },
+        "fund": {
+          "shortCount": 51,
+          "longCount": 79,
+          "shortHands": 3941,
+          "longHands": 3958,
+          "countRatio": 1.549,
+          "handsRatio": 1.0043
+        },
+        "quant": {
+          "shortCount": 45,
+          "longCount": 34,
+          "shortHands": 646,
+          "longHands": 532,
+          "countRatio": 0.7556,
+          "handsRatio": 0.8235
+        }
+      }
+    },
+    "PT": {
+      "name": "铂",
+      "groups": {
+        "light": {
+          "shortCount": 8,
+          "longCount": 65,
+          "shortHands": 10,
+          "longHands": 87,
+          "countRatio": 8.125,
+          "handsRatio": 8.7
+        },
+        "heavy": {
+          "shortCount": 15,
+          "longCount": 62,
+          "shortHands": 22,
+          "longHands": 212,
+          "countRatio": 4.1333,
+          "handsRatio": 9.6364
+        },
+        "fund": {
+          "shortCount": 17,
+          "longCount": 34,
+          "shortHands": 109,
+          "longHands": 298,
+          "countRatio": 2,
+          "handsRatio": 2.7339
+        },
+        "quant": {
+          "shortCount": 19,
+          "longCount": 2,
+          "shortHands": 49,
+          "longHands": 2,
+          "countRatio": 0.1053,
+          "handsRatio": 0.0408
+        }
+      }
+    },
+    "PX": {
+      "name": "对二甲苯",
+      "groups": {
+        "light": {
+          "shortCount": 210,
+          "longCount": 137,
+          "shortHands": 1362,
+          "longHands": 968,
+          "countRatio": 0.6524,
+          "handsRatio": 0.7107
+        },
+        "heavy": {
+          "shortCount": 58,
+          "longCount": 58,
+          "shortHands": 943,
+          "longHands": 2321,
+          "countRatio": 1,
+          "handsRatio": 2.4613
+        },
+        "fund": {
+          "shortCount": 55,
+          "longCount": 65,
+          "shortHands": 7923,
+          "longHands": 13219,
+          "countRatio": 1.1818,
+          "handsRatio": 1.6684
+        },
+        "quant": {
+          "shortCount": 127,
+          "longCount": 37,
+          "shortHands": 1495,
+          "longHands": 751,
+          "countRatio": 0.2913,
+          "handsRatio": 0.5023
+        }
+      }
+    },
+    "RB": {
+      "name": "螺纹钢",
+      "groups": {
+        "light": {
+          "shortCount": 941,
+          "longCount": 1456,
+          "shortHands": 6416,
+          "longHands": 10815,
+          "countRatio": 1.5473,
+          "handsRatio": 1.6856
+        },
+        "heavy": {
+          "shortCount": 147,
+          "longCount": 127,
+          "shortHands": 6195,
+          "longHands": 8387,
+          "countRatio": 0.8639,
+          "handsRatio": 1.3538
+        },
+        "fund": {
+          "shortCount": 99,
+          "longCount": 40,
+          "shortHands": 56883,
+          "longHands": 44498,
+          "countRatio": 0.404,
+          "handsRatio": 0.7823
+        },
+        "quant": {
+          "shortCount": 279,
+          "longCount": 55,
+          "shortHands": 15879,
+          "longHands": 1779,
+          "countRatio": 0.1971,
+          "handsRatio": 0.112
+        }
+      }
+    },
+    "RI": {
+      "name": "早籼稻",
+      "groups": {
+        "light": {
+          "shortCount": 0,
+          "longCount": 0,
+          "shortHands": 0,
+          "longHands": 0,
+          "countRatio": 0,
+          "handsRatio": 0
+        },
+        "heavy": {
+          "shortCount": 0,
+          "longCount": 0,
+          "shortHands": 0,
+          "longHands": 0,
+          "countRatio": 0,
+          "handsRatio": 0
+        },
+        "fund": {
+          "shortCount": 0,
+          "longCount": 0,
+          "shortHands": 0,
+          "longHands": 0,
+          "countRatio": 0,
+          "handsRatio": 0
+        },
+        "quant": {
+          "shortCount": 0,
+          "longCount": 0,
+          "shortHands": 0,
+          "longHands": 0,
+          "countRatio": 0,
+          "handsRatio": 0
+        }
+      }
+    },
+    "RM": {
+      "name": "菜粕",
+      "groups": {
+        "light": {
+          "shortCount": 737,
+          "longCount": 2580,
+          "shortHands": 4700,
+          "longHands": 32413,
+          "countRatio": 3.5007,
+          "handsRatio": 6.8964
+        },
+        "heavy": {
+          "shortCount": 77,
+          "longCount": 258,
+          "shortHands": 2055,
+          "longHands": 20287,
+          "countRatio": 3.3506,
+          "handsRatio": 9.872
+        },
+        "fund": {
+          "shortCount": 60,
+          "longCount": 96,
+          "shortHands": 12633,
+          "longHands": 34816,
+          "countRatio": 1.6,
+          "handsRatio": 2.756
+        },
+        "quant": {
+          "shortCount": 108,
+          "longCount": 95,
+          "shortHands": 7744,
+          "longHands": 5794,
+          "countRatio": 0.8796,
+          "handsRatio": 0.7482
+        }
+      }
+    },
+    "RR": {
+      "name": "粳米",
+      "groups": {
+        "light": {
+          "shortCount": 5,
+          "longCount": 12,
+          "shortHands": 19,
+          "longHands": 62,
+          "countRatio": 2.4,
+          "handsRatio": 3.2632
+        },
+        "heavy": {
+          "shortCount": 3,
+          "longCount": 4,
+          "shortHands": 15,
+          "longHands": 39,
+          "countRatio": 1.3333,
+          "handsRatio": 2.6
+        },
+        "fund": {
+          "shortCount": 3,
+          "longCount": 2,
+          "shortHands": 319,
+          "longHands": 2792,
+          "countRatio": 0.6667,
+          "handsRatio": 8.7524
+        },
+        "quant": {
+          "shortCount": 6,
+          "longCount": 8,
+          "shortHands": 78,
+          "longHands": 181,
+          "countRatio": 1.3333,
+          "handsRatio": 2.3205
+        }
+      }
+    },
+    "RS": {
+      "name": "菜籽",
+      "groups": {
+        "light": {
+          "shortCount": 2,
+          "longCount": 4,
+          "shortHands": 7,
+          "longHands": 4,
+          "countRatio": 2,
+          "handsRatio": 0.5714
+        },
+        "heavy": {
+          "shortCount": 1,
+          "longCount": 1,
+          "shortHands": 2,
+          "longHands": 1,
+          "countRatio": 1,
+          "handsRatio": 0.5
+        },
+        "fund": {
+          "shortCount": 0,
+          "longCount": 0,
+          "shortHands": 0,
+          "longHands": 0,
+          "countRatio": 0,
+          "handsRatio": 0
+        },
+        "quant": {
+          "shortCount": 0,
+          "longCount": 0,
+          "shortHands": 0,
+          "longHands": 0,
+          "countRatio": 0,
+          "handsRatio": 0
+        }
+      }
+    },
+    "RU": {
+      "name": "橡胶",
+      "groups": {
+        "light": {
+          "shortCount": 426,
+          "longCount": 791,
+          "shortHands": 1178,
+          "longHands": 2158,
+          "countRatio": 1.8568,
+          "handsRatio": 1.8319
+        },
+        "heavy": {
+          "shortCount": 77,
+          "longCount": 245,
+          "shortHands": 944,
+          "longHands": 2893,
+          "countRatio": 3.1818,
+          "handsRatio": 3.0646
+        },
+        "fund": {
+          "shortCount": 54,
+          "longCount": 110,
+          "shortHands": 1597,
+          "longHands": 3797,
+          "countRatio": 2.037,
+          "handsRatio": 2.3776
+        },
+        "quant": {
+          "shortCount": 51,
+          "longCount": 101,
+          "shortHands": 343,
+          "longHands": 652,
+          "countRatio": 1.9804,
+          "handsRatio": 1.9009
+        }
+      }
+    },
+    "SA": {
+      "name": "纯碱",
+      "groups": {
+        "light": {
+          "shortCount": 1020,
+          "longCount": 5179,
+          "shortHands": 6484,
+          "longHands": 42747,
+          "countRatio": 5.0775,
+          "handsRatio": 6.5927
+        },
+        "heavy": {
+          "shortCount": 206,
+          "longCount": 219,
+          "shortHands": 12956,
+          "longHands": 18214,
+          "countRatio": 1.0631,
+          "handsRatio": 1.4058
+        },
+        "fund": {
+          "shortCount": 146,
+          "longCount": 92,
+          "shortHands": 28772,
+          "longHands": 22458,
+          "countRatio": 0.6301,
+          "handsRatio": 0.7806
+        },
+        "quant": {
+          "shortCount": 373,
+          "longCount": 59,
+          "shortHands": 19722,
+          "longHands": 3011,
+          "countRatio": 0.1582,
+          "handsRatio": 0.1527
+        }
+      }
+    },
+    "SC": {
+      "name": "原油",
+      "groups": {
+        "light": {
+          "shortCount": 46,
+          "longCount": 216,
+          "shortHands": 65,
+          "longHands": 360,
+          "countRatio": 4.6957,
+          "handsRatio": 5.5385
+        },
+        "heavy": {
+          "shortCount": 80,
+          "longCount": 194,
+          "shortHands": 154,
+          "longHands": 567,
+          "countRatio": 2.425,
+          "handsRatio": 3.6818
+        },
+        "fund": {
+          "shortCount": 71,
+          "longCount": 90,
+          "shortHands": 374,
+          "longHands": 1275,
+          "countRatio": 1.2676,
+          "handsRatio": 3.4091
+        },
+        "quant": {
+          "shortCount": 113,
+          "longCount": 41,
+          "shortHands": 428,
+          "longHands": 124,
+          "countRatio": 0.3628,
+          "handsRatio": 0.2897
+        }
+      }
+    },
+    "SF": {
+      "name": "硅铁",
+      "groups": {
+        "light": {
+          "shortCount": 179,
+          "longCount": 388,
+          "shortHands": 1438,
+          "longHands": 2972,
+          "countRatio": 2.1676,
+          "handsRatio": 2.0668
+        },
+        "heavy": {
+          "shortCount": 59,
+          "longCount": 70,
+          "shortHands": 1863,
+          "longHands": 3367,
+          "countRatio": 1.1864,
+          "handsRatio": 1.8073
+        },
+        "fund": {
+          "shortCount": 67,
+          "longCount": 53,
+          "shortHands": 2129,
+          "longHands": 2661,
+          "countRatio": 0.791,
+          "handsRatio": 1.2499
+        },
+        "quant": {
+          "shortCount": 148,
+          "longCount": 69,
+          "shortHands": 2219,
+          "longHands": 2587,
+          "countRatio": 0.4662,
+          "handsRatio": 1.1658
+        }
+      }
+    },
+    "SH": {
+      "name": "烧碱",
+      "groups": {
+        "light": {
+          "shortCount": 654,
+          "longCount": 2321,
+          "shortHands": 3120,
+          "longHands": 12782,
+          "countRatio": 3.5489,
+          "handsRatio": 4.0968
+        },
+        "heavy": {
+          "shortCount": 154,
+          "longCount": 190,
+          "shortHands": 3341,
+          "longHands": 6701,
+          "countRatio": 1.2338,
+          "handsRatio": 2.0057
+        },
+        "fund": {
+          "shortCount": 110,
+          "longCount": 70,
+          "shortHands": 11052,
+          "longHands": 9029,
+          "countRatio": 0.6364,
+          "handsRatio": 0.817
+        },
+        "quant": {
+          "shortCount": 227,
+          "longCount": 73,
+          "shortHands": 5019,
+          "longHands": 973,
+          "countRatio": 0.3216,
+          "handsRatio": 0.1939
+        }
+      }
+    },
+    "SI": {
+      "name": "工业硅",
+      "groups": {
+        "light": {
+          "shortCount": 219,
+          "longCount": 957,
+          "shortHands": 1088,
+          "longHands": 6136,
+          "countRatio": 4.3699,
+          "handsRatio": 5.6397
+        },
+        "heavy": {
+          "shortCount": 40,
+          "longCount": 127,
+          "shortHands": 1191,
+          "longHands": 4608,
+          "countRatio": 3.175,
+          "handsRatio": 3.869
+        },
+        "fund": {
+          "shortCount": 49,
+          "longCount": 82,
+          "shortHands": 2105,
+          "longHands": 8935,
+          "countRatio": 1.6735,
+          "handsRatio": 4.2447
+        },
+        "quant": {
+          "shortCount": 77,
+          "longCount": 71,
+          "shortHands": 1447,
+          "longHands": 1735,
+          "countRatio": 0.9221,
+          "handsRatio": 1.199
+        }
+      }
+    },
+    "SM": {
+      "name": "锰硅",
+      "groups": {
+        "light": {
+          "shortCount": 295,
+          "longCount": 530,
+          "shortHands": 1647,
+          "longHands": 4101,
+          "countRatio": 1.7966,
+          "handsRatio": 2.49
+        },
+        "heavy": {
+          "shortCount": 109,
+          "longCount": 78,
+          "shortHands": 1745,
+          "longHands": 5066,
+          "countRatio": 0.7156,
+          "handsRatio": 2.9032
+        },
+        "fund": {
+          "shortCount": 78,
+          "longCount": 54,
+          "shortHands": 5363,
+          "longHands": 8848,
+          "countRatio": 0.6923,
+          "handsRatio": 1.6498
+        },
+        "quant": {
+          "shortCount": 215,
+          "longCount": 46,
+          "shortHands": 8326,
+          "longHands": 1092,
+          "countRatio": 0.214,
+          "handsRatio": 0.1312
+        }
+      }
+    },
+    "SN": {
+      "name": "锡",
+      "groups": {
+        "light": {
+          "shortCount": 296,
+          "longCount": 247,
+          "shortHands": 550,
+          "longHands": 470,
+          "countRatio": 0.8345,
+          "handsRatio": 0.8545
+        },
+        "heavy": {
+          "shortCount": 99,
+          "longCount": 127,
+          "shortHands": 525,
+          "longHands": 568,
+          "countRatio": 1.2828,
+          "handsRatio": 1.0819
+        },
+        "fund": {
+          "shortCount": 43,
+          "longCount": 83,
+          "shortHands": 779,
+          "longHands": 1323,
+          "countRatio": 1.9302,
+          "handsRatio": 1.6983
+        },
+        "quant": {
+          "shortCount": 67,
+          "longCount": 64,
+          "shortHands": 229,
+          "longHands": 160,
+          "countRatio": 0.9552,
+          "handsRatio": 0.6987
+        }
+      }
+    },
+    "SP": {
+      "name": "纸浆",
+      "groups": {
+        "light": {
+          "shortCount": 365,
+          "longCount": 1312,
+          "shortHands": 1271,
+          "longHands": 7274,
+          "countRatio": 3.5945,
+          "handsRatio": 5.7231
+        },
+        "heavy": {
+          "shortCount": 65,
+          "longCount": 150,
+          "shortHands": 656,
+          "longHands": 4584,
+          "countRatio": 2.3077,
+          "handsRatio": 6.9878
+        },
+        "fund": {
+          "shortCount": 55,
+          "longCount": 54,
+          "shortHands": 1773,
+          "longHands": 7125,
+          "countRatio": 0.9818,
+          "handsRatio": 4.0186
+        },
+        "quant": {
+          "shortCount": 126,
+          "longCount": 78,
+          "shortHands": 2643,
+          "longHands": 3539,
+          "countRatio": 0.619,
+          "handsRatio": 1.339
+        }
+      }
+    },
+    "SR": {
+      "name": "白糖",
+      "groups": {
+        "light": {
+          "shortCount": 406,
+          "longCount": 2758,
+          "shortHands": 1947,
+          "longHands": 18347,
+          "countRatio": 6.7931,
+          "handsRatio": 9.4232
+        },
+        "heavy": {
+          "shortCount": 88,
+          "longCount": 290,
+          "shortHands": 2887,
+          "longHands": 14324,
+          "countRatio": 3.2955,
+          "handsRatio": 4.9616
+        },
+        "fund": {
+          "shortCount": 74,
+          "longCount": 136,
+          "shortHands": 8010,
+          "longHands": 23221,
+          "countRatio": 1.8378,
+          "handsRatio": 2.899
+        },
+        "quant": {
+          "shortCount": 166,
+          "longCount": 87,
+          "shortHands": 5238,
+          "longHands": 3496,
+          "countRatio": 0.5241,
+          "handsRatio": 0.6674
+        }
+      }
+    },
+    "SS": {
+      "name": "不锈钢",
+      "groups": {
+        "light": {
+          "shortCount": 422,
+          "longCount": 222,
+          "shortHands": 1902,
+          "longHands": 687,
+          "countRatio": 0.5261,
+          "handsRatio": 0.3612
+        },
+        "heavy": {
+          "shortCount": 38,
+          "longCount": 64,
+          "shortHands": 494,
+          "longHands": 739,
+          "countRatio": 1.6842,
+          "handsRatio": 1.496
+        },
+        "fund": {
+          "shortCount": 37,
+          "longCount": 51,
+          "shortHands": 2204,
+          "longHands": 2578,
+          "countRatio": 1.3784,
+          "handsRatio": 1.1697
+        },
+        "quant": {
+          "shortCount": 49,
+          "longCount": 114,
+          "shortHands": 201,
+          "longHands": 1255,
+          "countRatio": 2.3265,
+          "handsRatio": 6.2438
+        }
+      }
+    },
+    "T": {
+      "name": "十年期国债",
+      "groups": {
+        "light": {
+          "shortCount": 24,
+          "longCount": 65,
+          "shortHands": 52,
+          "longHands": 154,
+          "countRatio": 2.7083,
+          "handsRatio": 2.9615
+        },
+        "heavy": {
+          "shortCount": 14,
+          "longCount": 63,
+          "shortHands": 116,
+          "longHands": 432,
+          "countRatio": 4.5,
+          "handsRatio": 3.7241
+        },
+        "fund": {
+          "shortCount": 17,
+          "longCount": 56,
+          "shortHands": 199,
+          "longHands": 1995,
+          "countRatio": 3.2941,
+          "handsRatio": 10.0251
+        },
+        "quant": {
+          "shortCount": 15,
+          "longCount": 90,
+          "shortHands": 68,
+          "longHands": 1430,
+          "countRatio": 6,
+          "handsRatio": 21.0294
+        }
+      }
+    },
+    "TA": {
+      "name": "PTA",
+      "groups": {
+        "light": {
+          "shortCount": 864,
+          "longCount": 698,
+          "shortHands": 5967,
+          "longHands": 6077,
+          "countRatio": 0.8079,
+          "handsRatio": 1.0184
+        },
+        "heavy": {
+          "shortCount": 169,
+          "longCount": 109,
+          "shortHands": 7071,
+          "longHands": 6865,
+          "countRatio": 0.645,
+          "handsRatio": 0.9709
+        },
+        "fund": {
+          "shortCount": 106,
+          "longCount": 82,
+          "shortHands": 28986,
+          "longHands": 32657,
+          "countRatio": 0.7736,
+          "handsRatio": 1.1266
+        },
+        "quant": {
+          "shortCount": 228,
+          "longCount": 73,
+          "shortHands": 6610,
+          "longHands": 2244,
+          "countRatio": 0.3202,
+          "handsRatio": 0.3395
+        }
+      }
+    },
+    "TF": {
+      "name": "5年期国债",
+      "groups": {
+        "light": {
+          "shortCount": 11,
+          "longCount": 16,
+          "shortHands": 23,
+          "longHands": 35,
+          "countRatio": 1.4545,
+          "handsRatio": 1.5217
+        },
+        "heavy": {
+          "shortCount": 7,
+          "longCount": 23,
+          "shortHands": 128,
+          "longHands": 249,
+          "countRatio": 3.2857,
+          "handsRatio": 1.9453
+        },
+        "fund": {
+          "shortCount": 1,
+          "longCount": 31,
+          "shortHands": 34,
+          "longHands": 584,
+          "countRatio": 31,
+          "handsRatio": 17.1765
+        },
+        "quant": {
+          "shortCount": 19,
+          "longCount": 51,
+          "shortHands": 122,
+          "longHands": 1153,
+          "countRatio": 2.6842,
+          "handsRatio": 9.4508
+        }
+      }
+    },
+    "TL": {
+      "name": "30年期国债",
+      "groups": {
+        "light": {
+          "shortCount": 30,
+          "longCount": 101,
+          "shortHands": 65,
+          "longHands": 201,
+          "countRatio": 3.3667,
+          "handsRatio": 3.0923
+        },
+        "heavy": {
+          "shortCount": 24,
+          "longCount": 92,
+          "shortHands": 121,
+          "longHands": 547,
+          "countRatio": 3.8333,
+          "handsRatio": 4.5207
+        },
+        "fund": {
+          "shortCount": 17,
+          "longCount": 72,
+          "shortHands": 162,
+          "longHands": 3016,
+          "countRatio": 4.2353,
+          "handsRatio": 18.6173
+        },
+        "quant": {
+          "shortCount": 21,
+          "longCount": 128,
+          "shortHands": 337,
+          "longHands": 1006,
+          "countRatio": 6.0952,
+          "handsRatio": 2.9852
+        }
+      }
+    },
+    "TS": {
+      "name": "两年期国债",
+      "groups": {
+        "light": {
+          "shortCount": 2,
+          "longCount": 11,
+          "shortHands": 3,
+          "longHands": 22,
+          "countRatio": 5.5,
+          "handsRatio": 7.3333
+        },
+        "heavy": {
+          "shortCount": 4,
+          "longCount": 15,
+          "shortHands": 14,
+          "longHands": 144,
+          "countRatio": 3.75,
+          "handsRatio": 10.2857
+        },
+        "fund": {
+          "shortCount": 1,
+          "longCount": 21,
+          "shortHands": 2,
+          "longHands": 349,
+          "countRatio": 21,
+          "handsRatio": 174.5
+        },
+        "quant": {
+          "shortCount": 6,
+          "longCount": 35,
+          "shortHands": 30,
+          "longHands": 924,
+          "countRatio": 5.8333,
+          "handsRatio": 30.8
+        }
+      }
+    },
+    "UR": {
+      "name": "尿素",
+      "groups": {
+        "light": {
+          "shortCount": 368,
+          "longCount": 1195,
+          "shortHands": 1844,
+          "longHands": 6693,
+          "countRatio": 3.2473,
+          "handsRatio": 3.6296
+        },
+        "heavy": {
+          "shortCount": 74,
+          "longCount": 119,
+          "shortHands": 2277,
+          "longHands": 3963,
+          "countRatio": 1.6081,
+          "handsRatio": 1.7404
+        },
+        "fund": {
+          "shortCount": 65,
+          "longCount": 57,
+          "shortHands": 9320,
+          "longHands": 5764,
+          "countRatio": 0.8769,
+          "handsRatio": 0.6185
+        },
+        "quant": {
+          "shortCount": 85,
+          "longCount": 73,
+          "shortHands": 1443,
+          "longHands": 1082,
+          "countRatio": 0.8588,
+          "handsRatio": 0.7498
+        }
+      }
+    },
+    "V": {
+      "name": "聚氯乙烯",
+      "groups": {
+        "light": {
+          "shortCount": 705,
+          "longCount": 2859,
+          "shortHands": 3439,
+          "longHands": 24568,
+          "countRatio": 4.0553,
+          "handsRatio": 7.1439
+        },
+        "heavy": {
+          "shortCount": 111,
+          "longCount": 184,
+          "shortHands": 2252,
+          "longHands": 13090,
+          "countRatio": 1.6577,
+          "handsRatio": 5.8126
+        },
+        "fund": {
+          "shortCount": 101,
+          "longCount": 76,
+          "shortHands": 19711,
+          "longHands": 21446,
+          "countRatio": 0.7525,
+          "handsRatio": 1.088
+        },
+        "quant": {
+          "shortCount": 319,
+          "longCount": 71,
+          "shortHands": 12498,
+          "longHands": 1790,
+          "countRatio": 0.2226,
+          "handsRatio": 0.1432
+        }
+      }
+    },
+    "WH": {
+      "name": "强麦",
+      "groups": {
+        "light": {
+          "shortCount": 0,
+          "longCount": 0,
+          "shortHands": 0,
+          "longHands": 0,
+          "countRatio": 0,
+          "handsRatio": 0
+        },
+        "heavy": {
+          "shortCount": 0,
+          "longCount": 0,
+          "shortHands": 0,
+          "longHands": 0,
+          "countRatio": 0,
+          "handsRatio": 0
+        },
+        "fund": {
+          "shortCount": 0,
+          "longCount": 0,
+          "shortHands": 0,
+          "longHands": 0,
+          "countRatio": 0,
+          "handsRatio": 0
+        },
+        "quant": {
+          "shortCount": 0,
+          "longCount": 0,
+          "shortHands": 0,
+          "longHands": 0,
+          "countRatio": 0,
+          "handsRatio": 0
+        }
+      }
+    },
+    "WR": {
+      "name": "线材",
+      "groups": {
+        "light": {
+          "shortCount": 0,
+          "longCount": 1,
+          "shortHands": 0,
+          "longHands": 1,
+          "countRatio": 0,
+          "handsRatio": 0
+        },
+        "heavy": {
+          "shortCount": 0,
+          "longCount": 0,
+          "shortHands": 0,
+          "longHands": 0,
+          "countRatio": 0,
+          "handsRatio": 0
+        },
+        "fund": {
+          "shortCount": 0,
+          "longCount": 0,
+          "shortHands": 0,
+          "longHands": 0,
+          "countRatio": 0,
+          "handsRatio": 0
+        },
+        "quant": {
+          "shortCount": 0,
+          "longCount": 0,
+          "shortHands": 0,
+          "longHands": 0,
+          "countRatio": 0,
+          "handsRatio": 0
+        }
+      }
+    },
+    "Y": {
+      "name": "豆油",
+      "groups": {
+        "light": {
+          "shortCount": 353,
+          "longCount": 439,
+          "shortHands": 1171,
+          "longHands": 2692,
+          "countRatio": 1.2436,
+          "handsRatio": 2.2989
+        },
+        "heavy": {
+          "shortCount": 111,
+          "longCount": 129,
+          "shortHands": 946,
+          "longHands": 3651,
+          "countRatio": 1.1622,
+          "handsRatio": 3.8594
+        },
+        "fund": {
+          "shortCount": 66,
+          "longCount": 89,
+          "shortHands": 3732,
+          "longHands": 6741,
+          "countRatio": 1.3485,
+          "handsRatio": 1.8063
+        },
+        "quant": {
+          "shortCount": 165,
+          "longCount": 79,
+          "shortHands": 2758,
+          "longHands": 1438,
+          "countRatio": 0.4788,
+          "handsRatio": 0.5214
+        }
+      }
+    },
+    "ZC": {
+      "name": "动力煤",
+      "groups": {
+        "light": {
+          "shortCount": 0,
+          "longCount": 0,
+          "shortHands": 0,
+          "longHands": 0,
+          "countRatio": 0,
+          "handsRatio": 0
+        },
+        "heavy": {
+          "shortCount": 0,
+          "longCount": 0,
+          "shortHands": 0,
+          "longHands": 0,
+          "countRatio": 0,
+          "handsRatio": 0
+        },
+        "fund": {
+          "shortCount": 0,
+          "longCount": 0,
+          "shortHands": 0,
+          "longHands": 0,
+          "countRatio": 0,
+          "handsRatio": 0
+        },
+        "quant": {
+          "shortCount": 0,
+          "longCount": 0,
+          "shortHands": 0,
+          "longHands": 0,
+          "countRatio": 0,
+          "handsRatio": 0
+        }
+      }
+    },
+    "ZN": {
+      "name": "锌",
+      "groups": {
+        "light": {
+          "shortCount": 151,
+          "longCount": 103,
+          "shortHands": 490,
+          "longHands": 294,
+          "countRatio": 0.6821,
+          "handsRatio": 0.6
+        },
+        "heavy": {
+          "shortCount": 55,
+          "longCount": 43,
+          "shortHands": 1336,
+          "longHands": 546,
+          "countRatio": 0.7818,
+          "handsRatio": 0.4087
+        },
+        "fund": {
+          "shortCount": 41,
+          "longCount": 34,
+          "shortHands": 1192,
+          "longHands": 1161,
+          "countRatio": 0.8293,
+          "handsRatio": 0.974
+        },
+        "quant": {
+          "shortCount": 44,
+          "longCount": 60,
+          "shortHands": 291,
+          "longHands": 185,
+          "countRatio": 1.3636,
+          "handsRatio": 0.6357
+        }
+      }
+    }
+  }
+}
